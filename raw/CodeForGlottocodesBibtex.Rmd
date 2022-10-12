@@ -1,0 +1,70 @@
+---
+title: "Adding glottocode to bibtex"
+output: html_document
+---
+
+Basic settings
+```{r}
+library(tidyverse)
+options(stringsAsFactors = F)
+```
+
+Change language labels to glottocodes
+```{r eval = FALSE}
+# read bib file
+bib <- readLines("sources.bib")
+head(bib)
+bib <- str_replace_all(bib, "language     = \\{", "glottocode     = \\{")
+head(bib)
+bib %>% writeLines("sources.bib")
+```
+
+
+read original bib file and language file
+```{r}
+# read bib file
+bib <- readLines("sources.bib")
+# read language file
+langs <- read.csv("WACL_v1.csv", sep = ",") %>%
+  rename(glottocode = Glottocode,
+         iso_code = ISO,
+         language_name = Language_name,
+         longitude = Longitude,
+         latitude = Latitude,
+         area = Area,
+         continent = Continent,
+         status = Status,
+         family = Family,
+         source = Citation)
+str(langs)
+```
+
+```{r}
+bib[str_detect(bib,"\tglottocode")] %>% length
+```
+```{r}
+index.glottocode <- which(str_detect(bib,"\tglottocode"))
+index.ref <- index.glottocode -1
+```
+
+```{r}
+refs <- cbind(bib[index.glottocode], bib[index.ref]) %>%
+  as.data.frame() %>%
+  mutate(V1 = str_replace(V1, ".*\\{",""),
+         V1 = str_replace(V1, "\\}.*", ""),
+         V2 = str_replace(V2, ".*\\{",""),
+         V2 = str_replace(V2, ",","")) %>%
+  rename(source = V2, glottocode = V1) %>% 
+  distinct()
+```
+
+
+```{r}
+langs %>%
+  select(-source) %>%
+  merge(refs, by = "glottocode", all.x = TRUE) %>%
+  distinct(glottocode, iso_code, .keep_all = TRUE) %>%
+  write.csv("WACL_v1.csv",
+            fileEncoding = "UTF-8",
+            row.names = FALSE)
+```
