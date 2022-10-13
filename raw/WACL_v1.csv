@@ -79,7 +79,7 @@
 "alut1245","alr","Alutor",FALSE,165.653,60.3844,"Eurasia","Asia","moribund","Chukotko-Kamchatkan","kibrik_alutor_2004"
 "alya1239","aly","Alyawarr",FALSE,136.835,-21.0427,"Australia","Pacific","threatened","Pama-Nyungan","yallop_alyawarra_1977"
 "amah1246","amc","Amahuaca",FALSE,-72.3208,-10.2012,"South America","Americas","moribund","Pano-Tacanan","russell_syntactonemics_1959"
-"amam1246","unknow","Amam",FALSE,146.958832,-7.849821,"Papunesia",NA,NA,"Goilalan","aki_tentative_2013"
+"amam1246",NA,"Amam",FALSE,146.958832,-7.849821,"Papunesia",NA,NA,"Goilalan","aki_tentative_2013"
 "aman1265","amn","Amanab",FALSE,141.178,-3.51516,"Papunesia","Pacific","shifting","Border","minch_essential_1991"
 "amap1240","amm","Ama (Papua New Guinea)",FALSE,141.658,-4.20192,"Papunesia","Pacific","threatened","Left May","arsjo_words_1999"
 "amar1271","amg","Amurdak",FALSE,132.878,-11.9876,"Australia","Pacific","nearly extinct","Iwaidjan Proper","robert_handelsmann_towards_1991"
@@ -146,7 +146,7 @@
 "arif1239","aai","Arifama-Miniafia",FALSE,149.246,-9.15565,"Papunesia","Pacific","shifting","Austronesian","oyabua_tentative_2015"
 "arig1246","aqg","Arigidi",FALSE,5.89556,7.56324,"Africa","Africa","not endangered","Atlantic-Congo","oshodi_reference_2011"
 "arik1262","ari","Arikara",FALSE,-98.7158,40.6473,"North America","Americas","nearly extinct","Caddoan","parks_introduction_1979"
-"ariz1237","unknow","Arizona Tewa",FALSE,-110.381389,35.836667,"North America",NA,"extinct","Kiowa-Tanoan","paul_v_kroskrity_aspects_1977"
+"ariz1237",NA,"Arizona Tewa",FALSE,-110.381389,35.836667,"North America",NA,"extinct","Kiowa-Tanoan","paul_v_kroskrity_aspects_1977"
 "arop1242","aps","Arop-Sissano",FALSE,142.12,-3.06984,"Papunesia","Pacific","not endangered","Austronesian","whitacre_aropsissano_1986"
 "arop1243","apr","Arop-Lokep",FALSE,147.103,-5.31671,"Papunesia","Pacific","not endangered","Austronesian",NA
 "aros1241","aia","Arosi",FALSE,161.432,-10.2441,"Papunesia","Pacific","not endangered","Austronesian","capell_arosi_1971"
@@ -270,7 +270,7 @@
 "bari1286","bch","Bariai",FALSE,148.666,-5.5087,"Papunesia","Pacific","not endangered","Austronesian","gallagher_data_2005"
 "bari1297","mot","Barí",FALSE,-72.9353,9.08497,"South America","Americas","threatened","Chibchan","quesada_bari_2004"
 "baro1253","bjk","Barok",FALSE,152.193,-3.47672,"Papunesia","Pacific","not endangered","Austronesian","du_towards_2010"
-"barr1252","unknow","Barranbinya",FALSE,145.93,-30.1,"Australia",NA,"extinct","Pama-Nyungan","oates_barranbinya_1988"
+"barr1252",NA,"Barranbinya",FALSE,145.93,-30.1,"Australia",NA,"extinct","Pama-Nyungan","oates_barranbinya_1988"
 "baru1267","byr","Baruya",FALSE,145.818,-6.89261,"Papunesia","Pacific","not endangered","Angan","lloyd_bound_1989"
 "baru1269","bjz","Baruga",FALSE,148.761,-9.40132,"Papunesia","Pacific","not endangered","Nuclear Trans New Guinea","farr_tafota_nodate"
 "basa1282","bzw","Basa (Nigeria)",FALSE,7.06183,8.03159,"Africa","Africa","not endangered","Atlantic-Congo","manda_study_2014"
@@ -322,7 +322,7 @@
 "bert1248","wti","Berta",FALSE,34.7042,10.6474,"Africa","Africa","shifting",NA,NA
 "besi1244","mhe","Besisi",TRUE,101.676,2.717,"Eurasia","Asia","shifting","Austroasiatic",NA
 "beta1252","bew","Betawi",FALSE,107.022,-6.21174,"Papunesia","Asia","threatened","Austronesian",NA
-"beto1236","unknow","Betoi-Jirara",FALSE,-71.67366,7.245731,"South America",NA,"extinct",NA,NA
+"beto1236",NA,"Betoi-Jirara",FALSE,-71.67366,7.245731,"South America",NA,"extinct",NA,NA
 "bett1235","xub","Betta Kurumba",FALSE,76.6064,11.6385,"Eurasia","Asia","shifting","Dravidian",NA
 "bezh1248","kap","Bezhta",FALSE,46.0332,42.1206,"Eurasia","Europe","shifting","Nakh-Daghestanian",NA
 "bhad1241","bhd","Bhadrawahi",FALSE,75.8707,33.2851,"Eurasia","Asia","threatened","Indo-European",NA
@@ -337,7 +337,7 @@
 "biat1246","bth","Biatah Bidayuh",TRUE,110.254,1.17596,"Papunesia","Asia","threatened","Austronesian",NA
 "bier1244","bnk","Bierebo",FALSE,168.154,-16.6663,"Papunesia","Pacific","shifting","Austronesian",NA
 "bign1238","nmb","Big Nambas",FALSE,167.239,-16.0903,"Papunesia","Pacific","not endangered","Austronesian",NA
-"biha1246","unknow","Bih",TRUE,108.016667,12.483333,"Eurasia",NA,"nearly extinct","Austronesian","nguyen_grammar_2013"
+"biha1246",NA,"Bih",TRUE,108.016667,12.483333,"Eurasia",NA,"nearly extinct","Austronesian","nguyen_grammar_2013"
 "bila1255","bip","Bila",FALSE,28.7626,1.16839,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "bili1260","byn","Bilin",FALSE,38.3917,15.7833,"Africa","Africa","threatened","Afro-Asiatic",NA
 "bilo1248","bll","Biloxi",FALSE,-89.1951,31.32,"North America","Americas","extinct","Siouan",NA
@@ -365,7 +365,7 @@
 "bodo1267","gbj","Bodo Gadaba",TRUE,82.771,18.3857,"Eurasia","Asia","shifting","Austroasiatic","griffiths_gutob_2008"
 "bodo1269","brx","Bodo-Mech",TRUE,89.333235,26.725455,"Eurasia","Asia","threatened","Sino-Tibetan",NA
 "boht1238","bhn","Bohtan Neo-Aramaic",FALSE,44.482,43.6405,"Eurasia","Asia","moribund","Afro-Asiatic",NA
-"boka1249","unknow","Bokar-Ramo",FALSE,94.066429,28.61433,"Eurasia",NA,"threatened","Sino-Tibetan",NA
+"boka1249",NA,"Bokar-Ramo",FALSE,94.066429,28.61433,"Eurasia",NA,"threatened","Sino-Tibetan",NA
 "boko1266","bqc","Boko (Benin)",TRUE,3.71771,10.5189,"Africa","Africa","not endangered","Mande",NA
 "boky1238","bky","Bokyi",FALSE,9.05875,6.10475,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "bola1250","bnp","Bola",FALSE,150.095,-5.55792,"Papunesia","Pacific","threatened","Austronesian",NA
@@ -499,9 +499,9 @@
 "cent2150","tuf","Central Tunebo",FALSE,-72.097,6.8867,"South America","Americas","shifting","Chibchan","headland_grammar_1973"
 "cent2194","tzm","Central Moroccan Berber",FALSE,-2.40872,32.7415,"Africa","Africa","not endangered","Afro-Asiatic","mauri_formal_2015"
 "cent2292","lbk","Central Bontoc",FALSE,120.92,17.08,"Papunesia",NA,"not endangered","Austronesian","reid_central_1970"
-"cent2312","unknow","Central Mfumte",FALSE,10.967982,6.67876,NA,NA,NA,"Atlantic-Congo","mclean_sketch_2014"
-"cent2314","unknow","Central Chong",TRUE,NA,NA,NA,NA,"moribund","Austroasiatic","kamnuansin_syntactic_2003"
-"cent2322","unknow","Central Mansi",FALSE,62.4023,61.1432,NA,NA,"moribund","Uralic","forsberg_eastern_2007"
+"cent2312",NA,"Central Mfumte",FALSE,10.967982,6.67876,NA,NA,NA,"Atlantic-Congo","mclean_sketch_2014"
+"cent2314",NA,"Central Chong",TRUE,NA,NA,NA,NA,"moribund","Austroasiatic","kamnuansin_syntactic_2003"
+"cent2322",NA,"Central Mansi",FALSE,62.4023,61.1432,NA,NA,"moribund","Uralic","forsberg_eastern_2007"
 "chac1249","cbi","Cha'palaa",TRUE,-79.0508,0.71489,"South America","Americas","shifting","Barbacoan","floyd_discourse_2010"
 "chac1251","cao","Chácobo",FALSE,-66.7164,-12.133,"South America","Americas","threatened","Pano-Tacanan","tallman_grammar_201"
 "chad1240","cdy","Chadong",TRUE,109.96041,25.23532,"Eurasia","Asia","not endangered","Tai-Kadai",NA
@@ -540,7 +540,7 @@
 "chim1302","qug","Chimborazo Highland Quichua",FALSE,-78.8521,-1.36727,"South America","Americas","threatened","Quechuan","beukema_grammatical_1975"
 "chim1309","cbg","Chimila",TRUE,-74.2559,10.1902,"South America","Americas","shifting","Chibchan",NA
 "chim1310","xch","Chimakum",FALSE,NA,NA,"North America",NA,"extinct","Chimakuan","boas_notes_1892"
-"chim1312","unknow","Chimwiini",FALSE,44.026991,1.111787,NA,NA,NA,"Atlantic-Congo","abasheikh_grammar_1978"
+"chim1312",NA,"Chimwiini",FALSE,44.026991,1.111787,NA,NA,NA,"Atlantic-Congo","abasheikh_grammar_1978"
 "chin1272","chn","Creolized Grand Ronde Chinook Jargon",FALSE,-125,55,"North America","Americas","nearly extinct","Chinookan","jacobs_notes_1932"
 "chin1286","chh","Chinook",FALSE,-119.166,45.1729,"North America","Americas","nearly extinct","Chinookan","boas_chinook_1911"
 "chin1475","cih","Chinali",FALSE,76.961,32.555,"Eurasia","Asia","not endangered","Indo-European","sarma_descriptive_1991"
@@ -555,7 +555,7 @@
 "choc1275","cgk","Chocangacakha",FALSE,91.21954,27.46961,"Eurasia","Asia","threatened","Sino-Tibetan","tournadre_outline_2015"
 "choc1276","cho","Choctaw",FALSE,-94.819,33.8993,"North America","Americas","threatened","Muskogean","broadwell_choctaw_2006"
 "chol1282","ctu","Chol",TRUE,-92.4698,17.4897,"North America","Americas","not endangered","Mayan","coon_chol_2017"
-"chol1283","unknow","Cholti",TRUE,-89,15.5,"North America",NA,"extinct","Mayan","sattler_cholti_2004"
+"chol1283",NA,"Cholti",TRUE,-89,15.5,"North America",NA,"extinct","Mayan","sattler_cholti_2004"
 "chol1284","cht","Cholón",TRUE,-75.9621,-9.23129,"South America","Americas","extinct","Hibito-Cholon",NA
 "chon1284","cog","Chong of Chanthaburi",TRUE,102.514,12.5218,"Eurasia","Asia","moribund","Austroasiatic","rojanakul_chong_2009"
 "chop1243","cce","Chopi",FALSE,34.1097,-24.8327,"Africa","Africa","not endangered","Atlantic-Congo","smyth_vocabulary_1902"
@@ -626,7 +626,7 @@
 "cusc1236","quz","Cusco Quechua",FALSE,-71.7663,-14.0853,"South America","Americas","threatened","Quechuan","ebina_cusco_2011"
 "cutc1238","ccl","Cutchi-Swahili",FALSE,38.6217,-3.13905,"Africa","Africa","not endangered","Atlantic-Congo","neale_kenyas_1974"
 "cypr1248","acy","Cypriot Arabic",FALSE,33.0943,35.1674,"Eurasia","Asia","shifting","Afro-Asiatic","tsiapera_descriptive_1969"
-"cypr1249","unknow","Cypriot Greek",FALSE,NA,NA,"Eurasia",NA,"not endangered","Indo-European","newton_cypriot_1972"
+"cypr1249",NA,"Cypriot Greek",FALSE,NA,NA,"Eurasia",NA,"not endangered","Indo-European","newton_cypriot_1972"
 "czec1258","ces","Czech",FALSE,15.10437,49.873398,"Eurasia","Europe","not endangered","Indo-European","naughton_czech_2005"
 "daai1236","dao","Daai Chin",TRUE,93.7853,20.7347,"Eurasia","Asia","not endangered","Sino-Tibetan","so-hartmann_descriptive_2009"
 "daak1235","kzf","Da'a Kaili",FALSE,119.527,-1.21051,"Papunesia","Asia","not endangered","Austronesian","barr_focus_1988"
@@ -642,7 +642,7 @@
 "daka1243","bpa","Dakaka",FALSE,168.013,-16.2696,"Papunesia","Pacific","not endangered","Austronesian","prince_grammar_2012"
 "dako1258","dak","Dakota",FALSE,-102.12,47.6857,"North America","Americas","shifting","Siouan","patterson_theoretical_1990"
 "dakp1242","dka","Dakpakha",FALSE,91.8245,27.3762,"Eurasia","Asia","threatened","Sino-Tibetan","hyslop_preliminary_2008"
-"dama1278","unknow","Daman-Diu Portuguese",FALSE,80.67,7.25,"Eurasia",NA,"threatened","Indo-European","cardoso_indo-portuguese_2009"
+"dama1278",NA,"Daman-Diu Portuguese",FALSE,80.67,7.25,"Eurasia",NA,"threatened","Indo-European","cardoso_indo-portuguese_2009"
 "dame1241","dml","Dameli",FALSE,71.6806,35.299,"Eurasia","Asia","threatened","Indo-European","perder_grammatical_2013"
 "damp1237","dms","Dampelas",TRUE,120.219,0.70234,"Papunesia","Asia","threatened","Austronesian","moro_sketch_2010"
 "dana1252","dnu","Danau",TRUE,96.998,20.4957,"Eurasia","Asia","shifting","Austroasiatic","si_danau_2015"
@@ -681,7 +681,7 @@
 "dhim1246","dhi","Dhimal",TRUE,88.3798,26.6283,"Eurasia","Asia","shifting","Sino-Tibetan","king_grammar_2008"
 "dhiv1236","div","Dhivehi",FALSE,73.54433,1.928498,"Eurasia","Asia","not endangered","Indo-European","gnanadesikan_dhivehi_2017"
 "dhof1235","adf","Dhofari Arabic",FALSE,54.4894,17.0796,"Eurasia","Asia","not endangered","Afro-Asiatic","davey_coastal_2016"
-"dhud1236","unknow","Dhudhuroa",FALSE,147.0450379,-36.95881441,"Australia",NA,"extinct","Pama-Nyungan","blake_dhudhuroa_2002"
+"dhud1236",NA,"Dhudhuroa",FALSE,147.0450379,-36.95881441,"Australia",NA,"extinct","Pama-Nyungan","blake_dhudhuroa_2002"
 "dhun1238","dhd","Dhundari",FALSE,76.198,26.473,"Eurasia","Asia","not endangered","Indo-European","gusain_dhundhari_2015"
 "dhur1239","dhu","Dhurga",FALSE,150.134,-35.412,"Australia","Pacific","extinct","Pama-Nyungan","mathews_thoorga_1902"
 "dhuw1249","duj","Dhuwal",FALSE,136.008,-12.7825,"Australia","Pacific","shifting","Pama-Nyungan","morphy_djapu_1983"
@@ -714,7 +714,7 @@
 "doma1260","dmk","Domaaki",FALSE,74.7984,36.3258,"Eurasia","Asia","moribund","Indo-European","lorimer_dumaki_1939"
 "domm1246","doa","Dom",FALSE,144.895,-6.03737,"Papunesia","Pacific","not endangered","Nuclear Trans New Guinea","syuntaro_grammar_2006"
 "dong1285","sce","Dongxiang",TRUE,103.558,35.5808,"Eurasia","Asia","threatened","Mongolic","kim_santa_2003"
-"donn1239","unknow","Donno So Dogon",FALSE,-3.51468,14.34019,"Africa",NA,"not endangered","Dogon",NA
+"donn1239",NA,"Donno So Dogon",FALSE,-3.51468,14.34019,"Africa",NA,"not endangered","Dogon",NA
 "doro1266","kqc","Doromu-Koki",FALSE,147.986,-9.56687,"Papunesia","Pacific","not endangered","Manubaran","bradshaw_doromu-koki_2012"
 "doya1240","dow","Doyayo",FALSE,13.0768,8.68604,"Africa","Africa","not endangered","Atlantic-Congo","wiering_doyayo_1994"
 "drun1238","duu","Drung",TRUE,98.49449,28.00792,"Eurasia","Asia","threatened","Sino-Tibetan",NA
@@ -760,7 +760,7 @@
 "east2652","hae","Eastern Oromo",FALSE,41.4395,8.67428,"Africa","Africa","not endangered","Afro-Asiatic","kumssa_grammar_2019"
 "east2690","avl","Eastern Egyptian Bedawi Arabic",FALSE,33.6113,29.6742,"Africa","Africa","not endangered","Afro-Asiatic",NA
 "east2694","sfe","Eastern Subanen",FALSE,NA,NA,"Papunesia",NA,"threatened","Austronesian",NA
-"east2773","unknow","Eastern Newari",TRUE,NA,NA,"Eurasia",NA,"threatened","Sino-Tibetan","genetti_grammar_2007"
+"east2773",NA,"Eastern Newari",TRUE,NA,NA,"Eurasia",NA,"threatened","Sino-Tibetan","genetti_grammar_2007"
 "ebir1243","igb","Ebira",FALSE,7.06183,8.15516,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "ebla1238","xeb","Eblaite",FALSE,NA,NA,"Eurasia",NA,"extinct","Afro-Asiatic",NA
 "edol1239","etr","Edolo",FALSE,142.65,-6.11618,"Papunesia","Pacific","not endangered","Bosavi","gossner_aspects_nodate"
@@ -795,7 +795,7 @@
 "esto1258","ekk","Estonian",FALSE,25.82,58.55,"Eurasia",NA,"not endangered","Uralic","ets_tiina_k_estonian_1992"
 "eton1253","eto","Eton-Mengisa",FALSE,11.3935,4.21045,"Africa","Africa","not endangered","Atlantic-Congo","velde_grammar_2008"
 "etru1241","ett","Etruscan",FALSE,12.4833,41.9,"Eurasia",NA,"extinct",NA,"rix_helmut_etruscan_2008"
-"eude1234","unknow","Eudeve",FALSE,-110,28.5,"North America",NA,"extinct","Uto-Aztecan","shaul_david_l_eudeve_1991"
+"eude1234",NA,"Eudeve",FALSE,-110,28.5,"North America",NA,"extinct","Uto-Aztecan","shaul_david_l_eudeve_1991"
 "even1259","evn","Evenki",TRUE,108.626,53.85,"Eurasia","Asia","shifting","Tungusic",NA
 "even1260","eve","Even",FALSE,130.914,70.6687,"Eurasia","Asia","moribund","Tungusic","kim_grammar_2011"
 "ewag1241","nou","Ewage-Notu",FALSE,148.405,-8.68756,"Papunesia","Pacific","not endangered","Nuclear Trans New Guinea","parrington_doug_introduction_nodate"
@@ -803,13 +803,13 @@
 "ewon1239","ewo","Ewondo",FALSE,11.93646,4.21141,"Africa","Africa","not endangered","Atlantic-Congo","redden_james_e_descriptive_1979"
 "eyak1241","eya","Eyak",FALSE,-144.762,60.4232,"North America","Americas","extinct","Athabaskan-Eyak-Tlingit","krauss_michael_e_eyak_2015"
 "fada1250","fab","Annobonese",FALSE,5.61879,-1.43033,"Africa","Africa","not endangered","Indo-European","post_marike_fa_2013"
-"faet1240","unknow","Faeto and Celle San Vito Francoprovencal",FALSE,NA,NA,"Eurasia",NA,"shifting","Indo-European","nagy_faetar_2000"
+"faet1240",NA,"Faeto and Celle San Vito Francoprovencal",FALSE,NA,NA,"Eurasia",NA,"shifting","Indo-European","nagy_faetar_2000"
 "fait1240","faj","Kulsab",FALSE,145.298,-5.59947,"Papunesia","Pacific","nearly extinct","Nuclear Trans New Guinea","daniels_don_kursav_2015"
 "faiw1243","fai","Faiwol",FALSE,141.656,-5.4967,"Papunesia","Pacific","shifting","Nuclear Trans New Guinea","mecklenburg_frank_brief_1977"
 "fala1243","cfm","Falam Chin",TRUE,92.3254633333,23.7892833333,"Eurasia","Asia","threatened","Sino-Tibetan","king_voice_2010"
 "fali1291","xfa","Faliscan",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European","bakkum_latin_2009"
 "fare1241","gur","Farefare",FALSE,-0.81109,11.0918,"Africa","Africa","not endangered","Atlantic-Congo","atintono_samuel_a_semantics_2013"
-"fare1244","unknow","Vach-Vasjugan",FALSE,NA,NA,"Eurasia",NA,"nearly extinct","Uralic","filchenko_aspect_2010"
+"fare1244",NA,"Vach-Vasjugan",FALSE,NA,NA,"Eurasia",NA,"nearly extinct","Uralic","filchenko_aspect_2010"
 "faro1244","fao","Faroese",FALSE,-6.88497,62.0732,"Eurasia","Europe","threatened","Indo-European","adams_faroese_2014"
 "fass1245","fqs","Momu-Fas",FALSE,141.64,-3.10868,"Papunesia","Pacific","shifting","Baibai-Fas","honeyman_thomas_grammar_2017"
 "fasu1242","faa","Fasu",FALSE,143.284,-6.62687,"Papunesia","Pacific","shifting",NA,"loeweke_eunice_general_1980"
@@ -828,7 +828,7 @@
 "ford1242","frd","Fordata",FALSE,131.511,-7.28902,"Papunesia","Asia","threatened","Austronesian","barto_elath_tfamalik_1990"
 "fore1265","enf","Forest Enets",FALSE,88.2121,69.9829,"Eurasia","Asia","moribund","Uralic","siegl_materials_2013"
 "fore1270","for","Fore",FALSE,145.5065,-6.64473,"Papunesia","Pacific","not endangered","Nuclear Trans New Guinea","scott_fore_1978"
-"fore1274","unknow","Forest Nenets",FALSE,71.97,63.72,"Eurasia",NA,"shifting","Uralic","sammallahti_material_1974"
+"fore1274",NA,"Forest Nenets",FALSE,71.97,63.72,"Eurasia",NA,"shifting","Uralic","sammallahti_material_1974"
 "friu1240","fur","Friulian",FALSE,13.0493,46.1473,"Eurasia","Europe","threatened","Indo-European","laura_vanelli_friuli_nodate"
 "fuli1240","flr","Fuliiru",FALSE,28.9865,-3.04022,"Africa","Africa","not endangered","Atlantic-Congo","van_otterloo_kifuliiru_2011"
 "fuln1247","fun","Fulniô",FALSE,-37.1402,-9.02591,"South America","Americas","shifting",NA,"meland_douglas_fulnio_1966"
@@ -865,7 +865,7 @@
 "gand1255","lug","Ganda",FALSE,32.15153,0.66884,"Africa","Africa","not endangered","Atlantic-Congo","mcpherson_laura_descriptive_2008"
 "gang1266","gnb","Gangte",TRUE,94.1681,24.5113,"Eurasia","Asia","threatened","Sino-Tibetan",NA
 "gang1267","gcd","Ganggalida",FALSE,139.426,-17.5446,"Australia","Pacific","nearly extinct","Tangkic","keen_sandra_yukulta_1983"
-"gang1272","unknow","Gangou",TRUE,NA,NA,"Eurasia",NA,"moribund","Sino-Tibetan","yongzhong_gangou_1997"
+"gang1272",NA,"Gangou",TRUE,NA,NA,"Eurasia",NA,"moribund","Sino-Tibetan","yongzhong_gangou_1997"
 "gant1244","gao","Gants",FALSE,144.771,-5.28113,"Papunesia","Pacific","not endangered","Nuclear Trans New Guinea","daniels_don_gants_2015"
 "gapa1238","pwg","Gapapaiwa",FALSE,149.854,-9.73317,"Papunesia","Pacific","not endangered","Austronesian","mcguckin_catherine_gapapaiwa_2002"
 "gara1269","wrk","Garrwa",FALSE,137.72014,-17.4504,"Australia",NA,"moribund","Garrwan","mushin_grammar_2013"
@@ -904,7 +904,7 @@
 "gily1242","niv","Nivkh",TRUE,140.681,52.59,"Eurasia","Asia","moribund",NA,"mattissen_dependent-head_2003"
 "gimi1243","gim","Gimi (Eastern Highlands)",FALSE,145.214,-6.42097,"Papunesia","Pacific","not endangered","Nuclear Trans New Guinea","haiman_john_comparative_1980"
 "gira1247","bbr","Girawa",FALSE,145.423,-5.35342,"Papunesia","Pacific","not endangered","Nuclear Trans New Guinea","gasaway_eileen_girawa_1992"
-"giri1245","unknow","Girirra",TRUE,42.17,5.76,"Africa",NA,"not endangered","Afro-Asiatic","mekonnen_grammar_2015"
+"giri1245",NA,"Girirra",TRUE,42.17,5.76,"Africa",NA,"not endangered","Afro-Asiatic","mekonnen_grammar_2015"
 "giry1241","nyf","Giryama",FALSE,39.6648,-3.30638,"Africa","Africa","not endangered","Atlantic-Congo","taylor_william_ernest_giryama_1891"
 "gito1238","toh","Gitonga",FALSE,35.1577,-23.7964,"Africa","Africa","not endangered","Atlantic-Congo","lanham_leonard_walter_study_1955"
 "gitx1241","git","Gitxsan",FALSE,-128.08,55.09,"North America","Americas","moribund","Tsimshian","forbes_clarissa_persistent_2018"
@@ -927,11 +927,11 @@
 "gren1247","gcl","Grenadian Creole English",FALSE,-61.6989,12.0067,"North America","Americas","not endangered","Indo-European","kephart_broken_2000"
 "guad1242","gcf","Guadeloupean Creole French",FALSE,-61.405914,16.304875,"North America","Americas","not endangered","Indo-European","colot_serge_guadeloupean_2013"
 "guah1255","guh","Guahibo",FALSE,-68.9839,5.81736,"South America","Americas","threatened","Guahiboan","kondo_victor_f_tagmemic_1976"
-"guai1237","unknow","Guaicurian",FALSE,-110.3,24.1666666667,"North America",NA,"extinct",NA,"zamponi_raoul_fragments_2004"
+"guai1237",NA,"Guaicurian",FALSE,-110.3,24.1666666667,"North America",NA,"extinct",NA,"zamponi_raoul_fragments_2004"
 "guan1269","gvc","Kotiria",FALSE,-69.5705,1.07554,"South America","Americas","shifting","Tucanoan","stenzel_reference_2013"
 "guar1293","gae","Baniva de Maroa",TRUE,-66.922505,1.80835,"South America","Americas","shifting","Arawakan",NA
 "guat1253","gta","Guató",FALSE,-57.2897,-17.8696,"South America","Americas","nearly extinct",NA,"pimentel_palacio_adair_aspects_1986"
-"gube1234","unknow","Gubeeher-Gufangor-Gubelor",FALSE,-17.19,12.56,"Africa",NA,"shifting","Atlantic-Congo","cobbinah_alexander_yao_nominal_2013"
+"gube1234",NA,"Gubeeher-Gufangor-Gubelor",FALSE,-17.19,12.56,"Africa",NA,"shifting","Atlantic-Congo","cobbinah_alexander_yao_nominal_2013"
 "gude1246","gde","Gude",FALSE,13.403,10.2138,"Africa","Africa","not endangered","Afro-Asiatic","hoskison_james_t_grammar_1983"
 "guer1241","ngu","Central Guerrero Nahuatl",TRUE,-99.0023,17.8583,"North America","Americas","not endangered","Uto-Aztecan",NA
 "guer1243","amu","Guerrero Amuzgo",FALSE,-98.18953,16.77226,"North America","Americas","threatened","Otomanguean","hart_helen_l_hierarchical_1957"
@@ -945,7 +945,7 @@
 "guja1252","guj","Gujarati",FALSE,71.0962,22.687,"Eurasia","Asia","not endangered","Indo-European","modi_parsi_2011"
 "guja1253","gju","Gujari",FALSE,73.1461,34.3768,"Eurasia","Asia","not endangered","Indo-European","losey_wayne_e_writing_2002"
 "gulf1241","afb","Gulf Arabic",FALSE,47.5,30.17,"Eurasia","Asia","not endangered","Afro-Asiatic","al-bahri_khaled_waleed_grammar_2014"
-"gulf1242","unknow","Gulf Coast French",FALSE,NA,NA,"North America",NA,NA,"Indo-European","moreton_rebecca_larche_mississippi_2001"
+"gulf1242",NA,"Gulf Coast French",FALSE,NA,NA,"North America",NA,NA,"Indo-European","moreton_rebecca_larche_mississippi_2001"
 "gull1241","gul","Sea Island Creole English",FALSE,-79.6036,33.6632,"North America","Americas","not endangered","Indo-European","klein_thomas_b_gullah_2013"
 "guma1254","gvs","Gumawana",TRUE,150.762,-9.28497,"Papunesia","Pacific","not endangered","Austronesian","ross_position_1992"
 "gumu1244","guk","Northern Gumuz",FALSE,35.93,11.05,"Africa","Africa","not endangered","Gumuz","bender_lionel_m_gumuz_1979"
@@ -1000,7 +1000,7 @@
 "hela1238","scp","Lamjung-Melamchi Yolmo",TRUE,85.6289,27.9212,"Eurasia","Asia","shifting","Sino-Tibetan","gawne_sketch_2016"
 "here1253","her","Herero",FALSE,20.5655,-21.0231,"Africa","Africa","threatened","Atlantic-Congo","mohlig_reference_2008"
 "hewa1241","ham","Hewa",FALSE,142.551,-5.03635,"Papunesia","Pacific","shifting","Sepik","paul_vollrath_hewa_1981"
-"hezh1244","unknow","Hezhou",TRUE,NA,NA,"Eurasia",NA,NA,"Sino-Tibetan","dwyer_northwest_1995"
+"hezh1244",NA,"Hezhou",TRUE,NA,NA,"Eurasia",NA,NA,"Sino-Tibetan","dwyer_northwest_1995"
 "hida1246","hid","Hidatsa",FALSE,-102.528,47.7534,"North America","Americas","nearly extinct","Siouan","park_indrek_grammar_2012"
 "hier1240","hlu","Hieroglyphic Luwian",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European","payne_hieroglyphic_2014"
 "high1242","chd","Highland Oaxaca Chontal",FALSE,-95.7301,16.1849,"North America","Americas","shifting","Tequistlatecan","turner_paul_raymond_highland_1966"
@@ -1019,7 +1019,7 @@
 "hoaa1235","huc","Amkoe",FALSE,24.69828,-23.93447,"Africa","Africa","moribund","Kxa","collins_chris_grammar_2014"
 "hoav1238","hoa","Hoava",FALSE,157.595,-8.19679,"Papunesia","Pacific","shifting","Austronesian","davis_grammar_2003"
 "hoch1243","win","Ho-Chunk",FALSE,-88.5,43.5,"North America","Americas","shifting","Siouan","marino_mary_carolyn_dictionary_1968"
-"homs1234","unknow","Western Armenian",FALSE,NA,NA,"Eurasia",NA,"threatened","Indo-European","sakayan_western_2012"
+"homs1234",NA,"Western Armenian",FALSE,NA,NA,"Eurasia",NA,"threatened","Indo-European","sakayan_western_2012"
 "hooo1248","hoc","Ho",FALSE,87.1188,23.9596,"Eurasia","Asia","threatened","Austroasiatic","pucilowski_anna_topics_2013"
 "hopi1249","hop","Hopi",FALSE,-110.535,35.7653,"North America","Americas","shifting","Uto-Aztecan","jeanne_leanne_m_aspects_1978"
 "horp1239","ero","Horpa",TRUE,101.72,31.1026,"Eurasia","Asia","threatened","Sino-Tibetan",NA
@@ -1091,7 +1091,7 @@
 "ingu1240","inh","Ingush",FALSE,45.03,43.11,"Eurasia","Europe","threatened","Nakh-Daghestanian","nichols_ingush_2011"
 "inor1238","ior","Inor",FALSE,37.7968,7.94883,"Africa","Africa","not endangered","Afro-Asiatic","adnew_meheretu_descriptive_2016"
 "iowa1245","iow","Iowa-Oto",FALSE,-95.5213,40.0511,"North America","Americas","extinct","Siouan","greer_jill_d_baxoje-jiwere_2016"
-"ipai1240","unknow","Ipai",FALSE,-116.993,33.005,NA,NA,"moribund","Cochimi-Yuman","langdon_grammar_1970"
+"ipai1240",NA,"Ipai",FALSE,-116.993,33.005,NA,NA,"moribund","Cochimi-Yuman","langdon_grammar_1970"
 "iqui1243","iqu","Iquito",FALSE,-73.97046,-3.31233,"South America","Americas","nearly extinct","Zaparoan","lai_i-wen_time_2009"
 "iraq1241","irk","Iraqw",FALSE,35.2939,-4.19948,"Africa","Africa","not endangered","Afro-Asiatic","nordbustad_iraqw_1988"
 "irar1238","irh","Irarutu",FALSE,133.586,-2.94438,"Papunesia","Asia","threatened","Austronesian","jackson_jason_grammar_2014"
@@ -1138,7 +1138,7 @@
 "jaun1243","jns","Jaunsari",FALSE,77.9084,30.5587,"Eurasia","Asia","threatened","Indo-European","satish_linguistic_1990"
 "java1254","jav","Javanese",TRUE,110.885,-0.572307,"Papunesia","Asia","not endangered","Austronesian",NA
 "jebe1250","jeb","Jebero",FALSE,-76.4103,-5.40317,"South America","Americas","nearly extinct","Cahuapanan","bendor-samuel_john_t_structure_1979"
-"jede1239","unknow","Jedek",TRUE,101.75,5.3,NA,NA,NA,"Austroasiatic","yager_small-scale_2020"
+"jede1239",NA,"Jedek",TRUE,101.75,5.3,NA,NA,NA,"Austroasiatic","yager_small-scale_2020"
 "jeha1242","jhi","Jehai",TRUE,101.541,5.63695,"Eurasia","Asia","shifting","Austroasiatic",NA
 "jehh1245","jeh","Jeh",TRUE,107.753,15.2351,"Eurasia","Asia","not endangered","Austroasiatic",NA
 "jeju1234","jje","Jejueo",FALSE,NA,NA,"Eurasia",NA,"shifting","Koreanic",NA
@@ -1168,7 +1168,7 @@
 "jurm1239","bex","Jur Modo",FALSE,29.974,6.03321,"Africa","Africa","not endangered","Central Sudanic","andersen_torben_grammar_1981"
 "kaba1278","kbd","Kabardian",FALSE,43.3918,43.5082,"Eurasia","Asia","threatened","Abkhaz-Adyge","applebaum_ayla_ayda_bozkurt_prosody_2013"
 "kaba1281","ksp","Kaba",FALSE,16.7344,7.64972,"Africa","Africa","not endangered","Central Sudanic","moser_kabba_2004"
-"kabi1260","unknow","Kabikabi",FALSE,153.1539929,-25.44486229,"Australia",NA,"extinct","Pama-Nyungan","bell_jeanie_sketch_2003"
+"kabi1260",NA,"Kabikabi",FALSE,153.1539929,-25.44486229,"Australia",NA,"extinct","Pama-Nyungan","bell_jeanie_sketch_2003"
 "kabu1256","kea","Kabuverdianu",FALSE,-23.6148,15.0586,"Africa","Africa","not endangered","Indo-European","swolkien_dominika_cape_2013"
 "kaby1243","kab","Kabyle",FALSE,4.76137,36.4103,"Africa","Africa","threatened","Afro-Asiatic","applegate_joseph_r_spoken_1966"
 "kach1272","gjk","Kachi Koli",FALSE,69.1901,24.2966,"Eurasia","Asia","not endangered","Indo-European","woodland_andrew_grammatical_nodate"
@@ -1260,7 +1260,7 @@
 "katb1237","tmb","Avava",FALSE,167.484,-16.2701,"Papunesia","Pacific","threatened","Austronesian","crowley_avava_2006"
 "katc1249","xtc","Katcha-Kadugli-Miri",FALSE,29.4914,10.8423,"Africa","Africa","threatened","Kadugli-Krongo","turner_darryl_john_morphosyntax_2016"
 "kate1253","kmg","Kâte",FALSE,147.757,-6.4795,"Papunesia","Pacific","not endangered","Nuclear Trans New Guinea","schneuker_carl_l_kate_1962"
-"kath1253","unknow","Kathlamet",FALSE,NA,NA,"North America",NA,"extinct","Chinookan","hymes_dell_hathaway_language_1955"
+"kath1253",NA,"Kathlamet",FALSE,NA,NA,"North America",NA,"extinct","Chinookan","hymes_dell_hathaway_language_1955"
 "kati1270","bsh","Kati",FALSE,70.9826,35.4145,"Eurasia","Asia","shifting","Indo-European","davidson_notes_2001"
 "katk1238","kfu","Katkari",FALSE,73.1733,18.9669,"Eurasia","Asia","not endangered","Indo-European","kulkarni_sb_descriptive_1969"
 "kato1244","ktw","Kato",FALSE,-123.432,39.7002,"North America","Americas","extinct","Athabaskan-Eyak-Tlingit","goddard_pliny_e_elements_1912"
@@ -1299,13 +1299,13 @@
 "kgal1244","xkv","Kgalagadi",FALSE,22.72016,-24.9208,"Africa","Africa","threatened","Atlantic-Congo","stephen_t_m_lukusa_shekgalagari_2008"
 "khak1248","kjh","Khakas",FALSE,107.169,50.7393,"Eurasia","Asia","shifting","Turkic","anderson_xakas_1998"
 "khal1275","klr","Khaling",FALSE,87.5053,27.3912,"Eurasia","Asia","threatened","Sino-Tibetan","toba_sueyoshi_khaling_1984"
-"kham1281","unknow","Khamnigan Mongol",FALSE,117,49,"Eurasia",NA,"moribund","Mongolic","wonsoo_study_2011"
+"kham1281",NA,"Khamnigan Mongol",FALSE,117,49,"Eurasia",NA,"moribund","Mongolic","wonsoo_study_2011"
 "kham1282","khg","Khams Tibetan",FALSE,91.7062,31.9313,"Eurasia","Asia","not endangered","Sino-Tibetan","bartee_ellen_lynn_grammar_2007"
 "kham1283","kbg","Khamba",FALSE,94.89439116,28.9930167,"Eurasia","Asia","shifting","Sino-Tibetan","badu_memba_2002"
 "kham1290","kht","Khamti",TRUE,97.0359,27.6653,"Eurasia","Asia","threatened","Tai-Kadai",NA
 "khan1272","khn","Khandesi",FALSE,74.142,21.3181,"Eurasia","Asia","not endangered","Indo-European","chitnis_vijaya_shridhar_khandeshi_1964"
 "khan1273","kca","Kazym-Berezover-Suryskarer Khanty",FALSE,66.1218,62.4308,"Eurasia","Asia","shifting","Uralic","redei_karoly_northern_1965"
-"khan1277","unknow","Southern Tangkhul Naga",FALSE,NA,NA,"Eurasia",NA,NA,"Sino-Tibetan","takhellambam_bijaya_devi_descriptive_2014"
+"khan1277",NA,"Southern Tangkhul Naga",FALSE,NA,NA,"Eurasia",NA,NA,"Sino-Tibetan","takhellambam_bijaya_devi_descriptive_2014"
 "khan1278","ogo","Khana",TRUE,7.44363,4.70908,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "khar1283","ksy","Kharia Thar",FALSE,83.799,22.245,"Eurasia","Asia","not endangered","Indo-European","dasgupta_dipankar_kharia_1978"
 "khar1287","khr","Kharia",TRUE,84.3922,22.3571,"Eurasia","Asia","threatened","Austroasiatic",NA
@@ -1316,7 +1316,7 @@
 "khmu1256","kjg","Khmu",TRUE,101.671,20.2463,"Eurasia","Asia","not endangered","Austroasiatic",NA
 "khoi1250","xkc","Kho'ini",FALSE,48.6212,36.8997,"Eurasia","Asia","moribund","Indo-European","yarshater_ehsan_xoini_2002"
 "khoi1251","nkb","Khoibu",TRUE,94.1345,24.2041,"Eurasia","Asia","not endangered","Sino-Tibetan","singh_descriptive_2014"
-"khor1274","unknow","Khorasan Arabic",FALSE,NA,NA,"Eurasia",NA,NA,"Afro-Asiatic","dahlgren_sven-olof_arabic_2005"
+"khor1274",NA,"Khorasan Arabic",FALSE,NA,NA,"Eurasia",NA,NA,"Afro-Asiatic","dahlgren_sven-olof_arabic_2005"
 "khot1251","kho","Khotanese",FALSE,79.04,38.33,"Eurasia",NA,"extinct","Indo-European","durkin-meisterernst_desmond_concise_2014"
 "khow1242","khw","Khowar",FALSE,72,36,"Eurasia","Asia","not endangered","Indo-European","endresen_rolf_theil_khowar_1981"
 "khum1248","cnk","Khumi Chin",TRUE,92.9894633333,22.87125,"Eurasia","Asia","not endangered","Sino-Tibetan",NA
@@ -1326,7 +1326,7 @@
 "kich1262","quc","K'iche'",FALSE,-91.1696,14.5278,"North America","Americas","threatened","Mayan","pixabaj_telma_a_can_kiche_2017"
 "kick1244","kic","Kickapoo",FALSE,-89.03034,41.655145,"North America","Americas","shifting","Algic","voorhis_introduction_1974"
 "kiku1240","kik","Kikuyu",FALSE,36.719,-0.29005,"Africa","Africa","not endangered","Atlantic-Congo","englebretson_robert_basic_2015"
-"kile1243","unknow","Kilen",TRUE,132.48,47.585,"Eurasia",NA,"moribund","Tungusic","zhang_kilen_2013"
+"kile1243",NA,"Kilen",TRUE,132.48,47.585,"Eurasia",NA,"moribund","Tungusic","zhang_kilen_2013"
 "kili1267","kij","Kilivila",TRUE,151.072,-8.72574,"Papunesia","Pacific","not endangered","Austronesian",NA
 "kili1268","klb","Kiliwa",FALSE,-115.123,30.5471,"North America","Americas","nearly extinct","Cochimi-Yuman","mixco_kiliwa_2000"
 "kilm1241","kih","Kilmeri",FALSE,141.191,-2.88607,"Papunesia","Pacific","shifting","Border","gerstner-link_grammar_2018"
@@ -1410,7 +1410,7 @@
 "kuan1247","kua","Kuanyama",FALSE,16.58,-17.7176,"Africa","Africa","not endangered","Atlantic-Congo","halme_tonal_2004"
 "kuan1248","ksd","Kuanua",FALSE,152.114,-4.30986,"Papunesia","Pacific","not endangered","Austronesian","mosel_tolai_1984"
 "kuan1249","ykn","Kua-nsi",TRUE,103.33,26.45,"Eurasia",NA,"not endangered","Sino-Tibetan",NA
-"kuba1248","unknow","Kubachi",FALSE,47.601843,42.08504,"Eurasia",NA,NA,"Nakh-Daghestanian","vamling_karina_sketch_1991"
+"kuba1248",NA,"Kubachi",FALSE,47.601843,42.08504,"Eurasia",NA,NA,"Nakh-Daghestanian","vamling_karina_sketch_1991"
 "kube1244","kgf","Kulungtfu-Yuanggeng-Tobo",FALSE,147.536,-6.42586,"Papunesia","Pacific","not endangered","Nuclear Trans New Guinea","lee_yongseop_kube_2014"
 "kuii1252","kxu","Kui (India)",TRUE,83.5859,19.2043,"Eurasia","Asia","not endangered","Dravidian","subrahmanyam_intransitive_1965"
 "kuii1253","kvd","Kui (Indonesia)",TRUE,124.791,-8.38204,"Papunesia","Asia","shifting","Timor-Alor-Pantar","windschuttel_3_2017"
@@ -1450,7 +1450,7 @@
 "kusu1250","kgg","Kusunda",FALSE,80.6309,29.1766,"Eurasia","Asia","nearly extinct",NA,"watters_david_e_notes_2006"
 "kute1248","kub","Kutep",FALSE,10.0916,7.07479,"Africa","Africa","not endangered","Atlantic-Congo","koops_robert_grammar_2007"
 "kute1249","kut","Kutenai",FALSE,-115.065,48.7892,"North America","Americas","moribund",NA,"morgan_lawrence_description_1991"
-"kuun1236","unknow","Kuungkari of Barcoo River",FALSE,143.5365228,-24.75108713,"Australia",NA,"extinct","Pama-Nyungan","breen_gavan_kungkari_1990"
+"kuun1236",NA,"Kuungkari of Barcoo River",FALSE,143.5365228,-24.75108713,"Australia",NA,"extinct","Pama-Nyungan","breen_gavan_kungkari_1990"
 "kuvi1243","kxv","Kuvi",TRUE,83.7552,18.8832,"Eurasia","Asia","not endangered","Dravidian","schulze_grammar_2010"
 "kuyy1240","kdt","Kuy",TRUE,104.911,14.6698,"Eurasia","Asia","moribund","Austroasiatic","bos_kui_2015"
 "kven1236","fkv","Kven Finnish",FALSE,29.5434,69.3772,"Eurasia","Europe","moribund","Uralic","lindgren_anna-riitta_linguistic_1999"
@@ -1565,7 +1565,7 @@
 "litz1237","lzl","Naman",FALSE,167.415,-16.1331,"Papunesia","Pacific","nearly extinct","Austronesian","crowley_naman_2006"
 "liuj1238","zlj","Liujiang Zhuang",TRUE,107.184,23.6818,"Eurasia","Asia","not endangered","Tai-Kadai",NA
 "livv1244","liv","Liv",FALSE,22.0262,57.566,"Eurasia","Europe","extinct","Uralic",NA
-"lizu1234","unknow","Lizu",TRUE,101.350309,28.333425,"Eurasia",NA,"shifting","Sino-Tibetan","chirkova_lizu_2016"
+"lizu1234",NA,"Lizu",TRUE,101.350309,28.333425,"Eurasia",NA,"shifting","Sino-Tibetan","chirkova_lizu_2016"
 "lodh1246","lbm","Lodhi",FALSE,84.9463,20.8954,"Eurasia","Asia","not endangered","Indo-European","dasgupta_dipankar_lodha_1978"
 "logb1245","lgq","Logba",FALSE,0.43068,6.92838,"Africa","Africa","shifting","Atlantic-Congo","dorvlo_kofi_grammar_2008"
 "logo1259","log","Logo",FALSE,29.8866,3.32608,"Africa","Africa","not endangered","Central Sudanic","goyvaerts_d_l_aspects_1983"
@@ -1584,13 +1584,13 @@
 "loui1240","lou","Louisiana Creole French",FALSE,-90.7475,30.0412,"North America","Americas","moribund","Indo-European","klingler_if_2003"
 "loup1243","xlo","Loup A",FALSE,NA,NA,"North America",NA,"extinct","Algic","gustafson_holly_s_grammar_2000"
 "louu1245","loj","Lou",TRUE,147.346,-2.38659,"Papunesia","Pacific","not endangered","Austronesian","stutzman_study_1997"
-"lowe1402","unknow","Lower Riverland",FALSE,NA,NA,"Australia",NA,"extinct","Pama-Nyungan","moorhouse_matthew_vocabulary_1846"
-"lowe1407","unknow","Lower-Nosop",FALSE,20.588827,-25.54522,"Africa",NA,"extinct","Tuu","bleek_dorothea_f_grammatical_1937"
+"lowe1402",NA,"Lower Riverland",FALSE,NA,NA,"Australia",NA,"extinct","Pama-Nyungan","moorhouse_matthew_vocabulary_1846"
+"lowe1407",NA,"Lower-Nosop",FALSE,20.588827,-25.54522,"Africa",NA,"extinct","Tuu","bleek_dorothea_f_grammatical_1937"
 "lowe1412","kml","Tanudan Kalinga",FALSE,121.311,17.3441,"Papunesia","Asia","not endangered","Austronesian","brainard_theme_1998"
 "lowe1415","dni","Lower Grand Valley Dani",FALSE,138.992,-4.25684,"Papunesia","Asia","not endangered","Nuclear Trans New Guinea","bromley_grammar_1981"
 "lowe1425","taa","Lower Tanana",FALSE,-149.451,64.8834,"North America","Americas","nearly extinct","Athabaskan-Eyak-Tlingit","urschel_janna_lower_2006"
 "lowe1427","cea","Lower Chehalis",FALSE,-124.004,46.7736,"North America","Americas","extinct","Salishan","robertson_dave_lwams_2014"
-"lowe1444","unknow","Lower Richmond",FALSE,153.48612,-28.937029,NA,NA,NA,"Pama-Nyungan","holmer_notes_1971"
+"lowe1444",NA,"Lower Richmond",FALSE,153.48612,-28.937029,NA,NA,NA,"Pama-Nyungan","holmer_notes_1971"
 "lowl1260","clo","Lowland Oaxaca Chontal",FALSE,-95.6876,15.9497,"North America","Americas","moribund","Tequistlatecan","oconnor_motion_2007"
 "lowl1265","tac","Lowland Tarahumara",FALSE,-107.854,27.4623,"North America","Americas","threatened","Uto-Aztecan","valdez_jara_yolanda_predication_2013"
 "lozi1239","loz","Lozi",FALSE,24.7398,-17.7052,"Africa","Africa","not endangered","Atlantic-Congo","fortune_outline_2001"
@@ -1644,7 +1644,7 @@
 "maib1239","ayz","Maybrat-Karon",TRUE,132.591,-1.3679,"Papunesia","Asia","not endangered",NA,"dol_grammar_2007"
 "mail1248","mgu","Mailu",FALSE,149.521,-10.3657,"Papunesia","Pacific","not endangered","Mailuan","thomson_n_p_magi_1975"
 "main1267","vmf","Mainfränkisch",FALSE,8.621,50.005,"Eurasia","Europe","threatened","Indo-European","russ_dialects_1990"
-"maip1246","unknow","Maipure",TRUE,-67.5,4.8,"South America",NA,"extinct","Arawakan","zamponi_maipure_2003"
+"maip1246",NA,"Maipure",TRUE,-67.5,4.8,"South America",NA,"extinct","Arawakan","zamponi_maipure_2003"
 "mais1250","mbq","Maisin",FALSE,148.731,-9.22853,"Papunesia","Pacific","not endangered","Austronesian","frampton_joanna_m_maisin_2014"
 "mait1250","mai","Maithili",TRUE,86.2211,26.3817,"Eurasia","Asia","not endangered","Indo-European",NA
 "maja1242","mpe","Majang",FALSE,35.0228,7.6843,"Africa","Africa","not endangered","Surmic","joswig_andreas_majang_2019"
@@ -1669,8 +1669,8 @@
 "mala1481","xmm","Manado Malay",TRUE,124.843,1.48099,"Papunesia","Asia","not endangered","Austronesian","prentice_manado_1994"
 "mala1522","mbp","Malayo",FALSE,-73.4056,10.9286,"South America","Americas","shifting","Chibchan","williams_cindy_grammar_1993"
 "mala1533","mcm","Malacca-Batavia Portuguese Creole",TRUE,102.262059,2.188087,"Eurasia","Asia","shifting","Indo-European",NA
-"mala1534","unknow","Malaweg",FALSE,NA,NA,"Papunesia",NA,NA,"Austronesian","reid_lawrence_a_malaweg_nodate"
-"mala1544","unknow","Malabar-Sri Lanka Portuguese",FALSE,80.67,7.25,"Eurasia",NA,"nearly extinct","Indo-European","smith_ian_r_sri_2013"
+"mala1534",NA,"Malaweg",FALSE,NA,NA,"Papunesia",NA,NA,"Austronesian","reid_lawrence_a_malaweg_nodate"
+"mala1544",NA,"Malabar-Sri Lanka Portuguese",FALSE,80.67,7.25,"Eurasia",NA,"nearly extinct","Indo-European","smith_ian_r_sri_2013"
 "malb1235","bfo","Malba Birifor",FALSE,-2.90623,9.78465,"Africa","Africa","not endangered","Atlantic-Congo","franklin_lynne_birifor_nodate"
 "male1284","mdy","Male (Ethiopia)",FALSE,36.9892,5.91975,"Africa","Africa","threatened","Ta-Ne-Omotic","amha_azeb_maale_2001"
 "male1289","mgl","Maleu-Kilenge",FALSE,148.445,-5.61613,"Papunesia","Pacific","not endangered","Austronesian","haywood_graham_maleu_1996"
@@ -1716,7 +1716,7 @@
 "mann1246","mjv","Mannan",FALSE,76.97,9.85,"Eurasia","Asia","threatened","Dravidian","monsy_annie_linguistic_1997"
 "mann1248","mev","Mann",FALSE,-8.86405,7.04616,"Africa","Africa","not endangered","Mande","schwab_george_mano_1947"
 "mans1258","mns","Northern Mansi",FALSE,61.344,64.4118,"Eurasia","Asia","shifting","Uralic","riese_vogul_2001"
-"mans1260","unknow","Mansim",FALSE,134.011116,-0.915054,"Papunesia",NA,"moribund","Hatam-Mansim","reesink_ger_p_mansim_2002"
+"mans1260",NA,"Mansim",FALSE,134.011116,-0.915054,"Papunesia",NA,"moribund","Hatam-Mansim","reesink_ger_p_mansim_2002"
 "mans1262","msk","Mansaka",FALSE,126.181,6.79221,"Papunesia","Asia","threatened","Austronesian","svelmoe_notes_1974"
 "manu1255","kxf","Manumanaw Karen",TRUE,96.9531,19.165,"Eurasia","Asia","not endangered","Sino-Tibetan","wai_descriptive_2013"
 "manu1258","wha","Manusela",FALSE,129.429,-3.1109,"Papunesia","Asia","not endangered","Austronesian","chlenova_svetlana_manusela_2012"
@@ -1777,7 +1777,7 @@
 "mbug1242","mgz","Mbugwe",FALSE,35.8133,-3.75763,"Africa","Africa","threatened","Atlantic-Congo","wilhelmsen_vera_mbugwe_2019"
 "mbuk1240","mhw","Mbukushu",FALSE,22.5026,-17.6827,"Africa","Africa","not endangered","Atlantic-Congo","fisch_thimbukushu_1998"
 "mbuk1243","mqb","Mbuko",FALSE,14.1677,10.7788,"Africa","Africa","not endangered","Afro-Asiatic","gravina_richard_verb_2001"
-"mbuk1244","unknow","Mbuk",FALSE,NA,NA,NA,NA,NA,"Atlantic-Congo","tschonghongei_nelson_c_mbuk_2018"
+"mbuk1244",NA,"Mbuk",FALSE,NA,NA,NA,NA,NA,"Atlantic-Congo","tschonghongei_nelson_c_mbuk_2018"
 "mbul1263","mna","Mbula",FALSE,148.041,-5.66965,"Papunesia","Pacific","not endangered","Austronesian",NA
 "meen1242","mym","Me'en",FALSE,35.6255,6.63207,"Africa","Africa","shifting","Surmic","joswig_andreas_brief_2011"
 "mehe1243","nux","Mehek",FALSE,142.498,-3.70927,"Papunesia","Pacific","shifting","Sepik","hatfield_adam_grammar_2016"
@@ -1810,7 +1810,7 @@
 "midd1317","enm","Middle English",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European","mustanoja_middle_2016"
 "midd1343","gmh","Middle High German",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European","asher_short_1967"
 "midd1344","ltc","Middle Chinese",FALSE,108.9,34.27,"Eurasia",NA,"extinct","Sino-Tibetan","pulleyblank_edwin_g_late_1970"
-"midd1350","unknow","Middle Indo-Aryan",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European","bubenik_vit_prakrits_2003"
+"midd1350",NA,"Middle Indo-Aryan",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European","bubenik_vit_prakrits_2003"
 "midd1351","xng","Middle Mongol",FALSE,NA,NA,"Eurasia",NA,"extinct","Mongolic","rybatzki_volker_middle_2003"
 "midd1357","bdy","Middle Clarence Bandjalang",FALSE,152.780249,-29.042737,NA,"Pacific",NA,"Pama-Nyungan","crowley_middle_1978"
 "mido1240","mei","Midob",FALSE,27.2236,14.789,"Africa","Africa","not endangered","Nubian","werner_tidn-a_1993"
@@ -1818,8 +1818,8 @@
 "miju1243","mxj","Kman",TRUE,97.0444,28.4732,"Eurasia","Asia","shifting","Sino-Tibetan",NA
 "mika1239","mik","Mikasuki",FALSE,-80.90847,26.08142,"North America","Americas","shifting","Muskogean","boynton_sylvia_s_mikasuki_1982"
 "mikm1235","mic","Mi'kmaq",FALSE,-65.5766,45.9941,"North America","Americas","shifting","Algic","inglis_stephanie_heather_speakers_2002"
-"mila1245","unknow","Milang",TRUE,95.186127,28.5539908,"Eurasia",NA,"threatened","Sino-Tibetan","modi_milang_2017"
-"mill1237","unknow","Millcayac",FALSE,-67.569581,-31.79729,"South America",NA,"extinct","Huarpean","schuller_r_r_disovery_1913"
+"mila1245",NA,"Milang",TRUE,95.186127,28.5539908,"Eurasia",NA,"threatened","Sino-Tibetan","modi_milang_2017"
+"mill1237",NA,"Millcayac",FALSE,-67.569581,-31.79729,"South America",NA,"extinct","Huarpean","schuller_r_r_disovery_1913"
 "milu1241","iml","Miluk",FALSE,-124.258,43.3215,"North America",NA,"extinct","Coosan","doty_christopher_s_reassessment_2012"
 "mina1268","min","Minangkabau",TRUE,96.25,4.17,"Papunesia","Asia","not endangered","Austronesian",NA
 "mina1276","hna","Mina (Cameroon)",FALSE,13.84054,10.38053,"Africa","Africa","not endangered","Afro-Asiatic","frajzyngier_grammar_2005"
@@ -1899,7 +1899,7 @@
 "mudu1239","udg","Muduga",FALSE,NA,NA,"Eurasia","Asia","not endangered","Dravidian","rajendran_nanu_muduga_1986"
 "mudu1242","wiv","Muduapa",FALSE,149.489,-4.69751,"Papunesia","Pacific","not endangered","Austronesian","berg_vitu_2006"
 "mufi1238","aoj","Mufian",FALSE,142.955,-3.57932,"Papunesia","Pacific","threatened","Nuclear Torricelli","conrad_robert_j_muhiang_1978"
-"mukl1234","unknow","Muklom",TRUE,NA,NA,NA,NA,NA,"Sino-Tibetan","ngemu_moklum_1977"
+"mukl1234",NA,"Muklom",TRUE,NA,NA,NA,NA,NA,"Sino-Tibetan","ngemu_moklum_1977"
 "mula1253","mlm","Mulam",TRUE,108.928,24.8151,"Eurasia","Asia","shifting","Tai-Kadai",NA
 "mull1237","mpb","Mullukmulluk",FALSE,130.615,-13.2973,"Australia","Pacific","nearly extinct","Northern Daly","birk_d_b_w_malakmalak_1976"
 "muna1247","mnb","Muna",TRUE,122.541,-5.40419,"Papunesia","Asia","threatened","Austronesian","van_den_berg_grammar_1989"
@@ -1961,7 +1961,7 @@
 "narr1259","nay","Narrinyeri",FALSE,140.158,-36.2301,"Australia","Pacific","extinct","Pama-Nyungan","bannister_corinne_longitudinal_2004"
 "naru1238","nnr","Narungga",FALSE,137.535,-34.69,"Australia",NA,"moribund","Pama-Nyungan","eira_fragments_2010"
 "natc1249","ncz","Natchez",FALSE,-91.33,31.75,"North America","Americas","extinct",NA,"kimball_geoffrey_natchez_2005"
-"nati1244","unknow","Nati",FALSE,167.496054,-16.468709,"Papunesia",NA,"moribund","Austronesian","crowley_terry_salvage_1998"
+"nati1244",NA,"Nati",FALSE,167.496054,-16.468709,"Papunesia",NA,"moribund","Austronesian","crowley_terry_salvage_1998"
 "naue1237","nxa","Nauete",TRUE,126.741,-8.70733,"Papunesia","Asia","shifting","Austronesian","veloso_grammar_2016"
 "naur1243","nau","Nauru",TRUE,166.922,-0.52957,"Papunesia","Pacific","shifting","Austronesian",NA
 "nava1243","nav","Navajo",FALSE,-110.082,36.2106,"North America","Americas","not endangered","Athabaskan-Eyak-Tlingit","goossen_dine_1995"
@@ -1984,7 +1984,7 @@
 "neng1238","nen","Nengone",FALSE,167.964,-21.5305,"Papunesia","Pacific","not endangered","Austronesian","tryon_nengone_1971"
 "nepa1253","kxl","Nepali Kurux",TRUE,86.00255,26.72057,"Eurasia","Asia","threatened","Dravidian","gordon_clause_1973"
 "nepa1254","npi","Nepali",TRUE,85,28,"Eurasia",NA,"not endangered","Indo-European","jain_indo-aryan_2007"
-"nese1235","unknow","Nese",FALSE,NA,NA,"Papunesia",NA,"shifting","Austronesian","takau_lana_grelyn_grammar_2016"
+"nese1235",NA,"Nese",FALSE,NA,NA,"Papunesia",NA,"shifting","Austronesian","takau_lana_grelyn_grammar_2016"
 "newa1246","new","Kathmandu Valley Newari",TRUE,84.9577,27.2614,"Eurasia","Asia","shifting","Sino-Tibetan",NA
 "nezp1238","nez","Nez Perce",TRUE,-116.408,46.3073,"North America","Americas","nearly extinct","Sahaptian",NA
 "ngaa1240","ntj","Ngaanyatjarra",FALSE,127.602,-25.7514,"Australia","Pacific","shifting","Pama-Nyungan","glass_ngaanyatjarra_1983"
@@ -2014,7 +2014,7 @@
 "ngit1239","niy","Ngiti",FALSE,30.2242,1.30455,"Africa","Africa","not endangered","Central Sudanic","kutsch_lojenga_ngiti_1994"
 "ngiz1242","ngi","Ngizim",FALSE,11.0178,12.1051,"Africa","Africa","threatened","Afro-Asiatic","schuh_russell_galen_aspects_1972"
 "ngka1235","kcd","Ngkontar Ngkolmpu",FALSE,140.818,-8.87044,"Papunesia","Asia","shifting","Morehead-Wasur","carroll_matthew_ngkolmpu_2017"
-"ngoc1235","unknow","Ngochang",TRUE,NA,NA,NA,NA,NA,"Sino-Tibetan","nagakura_elements_2006"
+"ngoc1235",NA,"Ngochang",TRUE,NA,NA,NA,NA,NA,"Sino-Tibetan","nagakura_elements_2006"
 "ngom1272","jgo","Ngomba",FALSE,10.237,5.63067,"Africa","Africa","not endangered","Atlantic-Congo","satre_structure_2004"
 "ngon1269","ngo","Ngoni",FALSE,37.4118,-11.7794,"Africa","Africa","threatened","Atlantic-Congo","ngonyani_grammar_2003"
 "ngur1261","nbx","Ngura",FALSE,143.216,-29.2411,"Australia","Pacific","extinct","Pama-Nyungan","mcdonald_basic_nodate"
@@ -2034,7 +2034,7 @@
 "nisg1240","ncg","Nisga'a",FALSE,-129.192,55.199,"North America","Americas","moribund","Tsimshian",NA
 "niua1240","num","Niuafo'ou",FALSE,-175.64,-15.6014,"Papunesia","Pacific","shifting","Austronesian",NA
 "niue1239","niu","Niuean",FALSE,-169.86,-19.06,"Papunesia","Pacific","shifting","Austronesian",NA
-"njan1240","unknow","Njanga",FALSE,11.51,6.41,"Africa",NA,"nearly extinct","Atlantic-Congo",NA
+"njan1240",NA,"Njanga",FALSE,11.51,6.41,"Africa",NA,"nearly extinct","Atlantic-Congo",NA
 "njeb1242","nzb","Njebi",FALSE,12.7063,-2.18115,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "njer1242","njr","Njerep",FALSE,11.521,6.82183,"Africa","Africa","nearly extinct","Atlantic-Congo",NA
 "njye1238","njy","Njyem",FALSE,14.1175,2.30483,"Africa","Africa","not endangered","Atlantic-Congo",NA
@@ -2073,7 +2073,7 @@
 "nort2741","tts","Northeastern Thai",FALSE,102.986,14.3253,"Eurasia","Asia","not endangered","Tai-Kadai",NA
 "nort2745","ykg","Northern Yukaghir",FALSE,151.318,65.3874,"Eurasia","Asia","nearly extinct","Yukaghir",NA
 "nort2747","hea","Northern Qiandong Miao",TRUE,108.162,26.6338,"Eurasia","Asia","not endangered","Hmong-Mien",NA
-"nort2760","unknow","Northern Inland Yuin",FALSE,149.1,-34.85,"Australia",NA,"extinct","Pama-Nyungan",NA
+"nort2760",NA,"Northern Inland Yuin",FALSE,149.1,-34.85,"Australia",NA,"extinct","Pama-Nyungan",NA
 "nort2775","gya","Northwest Gbaya",FALSE,15.2569,5.9503,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "nort2780","dgi","Northern Dagara",FALSE,-3.0124,11.0441,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "nort2787","tsp","Northern Toussian",TRUE,-4.88274,11.133,"Africa","Africa","threatened","Atlantic-Congo",NA
@@ -2107,7 +2107,7 @@
 "nort2994","rog","Northern Roglai",FALSE,108.849,12.1967,"Eurasia","Asia","threatened","Austronesian",NA
 "nort3139","apc","North Levantine Arabic",FALSE,36.0468,34.1709,"Eurasia","Asia","not endangered","Afro-Asiatic",NA
 "nort3142","ayp","North Mesopotamian Arabic",FALSE,42.0047,36.2986,"Eurasia","Asia","not endangered","Afro-Asiatic",NA
-"nort3244","unknow","Northern Hmong",TRUE,104.191944,24.041944,"Eurasia",NA,NA,"Hmong-Mien",NA
+"nort3244",NA,"Northern Hmong",TRUE,104.191944,24.041944,"Eurasia",NA,NA,"Hmong-Mien",NA
 "norw1258","nor","Norwegian",FALSE,10.71,59.92,"Eurasia","Europe","not endangered","Indo-European",NA
 "nots1237","ncf","Notsi",FALSE,151.661,-3.0557,"Papunesia","Pacific","not endangered","Austronesian",NA
 "nott1246","ntw","Nottoway",FALSE,-77.115,36.72,"North America","Americas","extinct","Iroquoian",NA
@@ -2174,10 +2174,10 @@
 "nyor1246","nyo","Nyoro",FALSE,31.3493,0.95294,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "nyul1247","nyv","Nyulnyul",FALSE,122.851,-16.9129,"Australia","Pacific","nearly extinct","Nyulnyulan",NA
 "nyun1247","nys","Nyunga",FALSE,118.151,-33.1199,"Australia","Pacific","nearly extinct","Pama-Nyungan",NA
-"nzad1234","unknow","Nzadi",FALSE,20.194462,-4.102208,"Africa",NA,"not endangered","Atlantic-Congo",NA
+"nzad1234",NA,"Nzadi",FALSE,20.194462,-4.102208,"Africa",NA,"not endangered","Atlantic-Congo",NA
 "nzan1240","nja","Nzanyi",FALSE,13.3343,10.0666,"Africa","Africa","shifting","Afro-Asiatic",NA
 "nzim1238","nzi","Nzima",FALSE,-2.81123,5.1785,"Africa","Africa","not endangered","Atlantic-Congo",NA
-"obdo1234","unknow","Obdorsk Khanty",FALSE,67.09,66.31,NA,NA,"shifting","Uralic",NA
+"obdo1234",NA,"Obdorsk Khanty",FALSE,67.09,66.31,NA,NA,"shifting","Uralic",NA
 "obol1243","ann","Obolo",TRUE,7.81985,4.62851,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "obom1235","obo","Obo Manobo",FALSE,125.09,7.29141,"Papunesia","Asia","not endangered","Austronesian",NA
 "occi1239","oci","Occitan",FALSE,6.82979,44.1415,"Eurasia","Europe","not endangered","Indo-European",NA
@@ -2194,18 +2194,18 @@
 "okuu1243","oku","Oku",FALSE,10.5096,6.23712,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "oldc1244","och","Old Chinese",TRUE,114.32,36.12,"Eurasia",NA,"extinct","Sino-Tibetan",NA
 "olde1238","ang","Old English (ca. 450-1100)",FALSE,-1.31,51.06,"Eurasia",NA,"nearly extinct","Indo-European",NA
-"olde1239","unknow","Older Runic",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European",NA
+"olde1239",NA,"Older Runic",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European",NA
 "oldf1239","fro","Old French (842-ca. 1400)",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European",NA
 "oldf1241","ofs","Old Frisian",FALSE,6.8,53.35,"Eurasia",NA,"extinct","Indo-European",NA
 "oldg1234","oge","Old Georgian",FALSE,NA,NA,"Eurasia",NA,"extinct","Kartvelian",NA
 "oldh1241","goh","Old High German (ca. 750-1050)",FALSE,10,52,"Eurasia",NA,"extinct","Indo-European",NA
 "oldi1245","sga","Old Irish (to 900)",FALSE,-8,53,"Eurasia",NA,"extinct","Indo-European",NA
 "oldj1239","ojp","Old Japanese",TRUE,NA,NA,"Eurasia",NA,"extinct","Japonic","bentley_old_2012"
-"oldk1249","unknow","Old Khmer",TRUE,NA,NA,"Eurasia",NA,"extinct","Austroasiatic","sidwell_handbook_2014"
-"oldk1250","unknow","Old Kannada",FALSE,NA,NA,"Eurasia",NA,"extinct","Dravidian",NA
-"oldl1238","unknow","Old Latin",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European",NA
+"oldk1249",NA,"Old Khmer",TRUE,NA,NA,"Eurasia",NA,"extinct","Austroasiatic","sidwell_handbook_2014"
+"oldk1250",NA,"Old Kannada",FALSE,NA,NA,"Eurasia",NA,"extinct","Dravidian",NA
+"oldl1238",NA,"Old Latin",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European",NA
 "oldm1242","omx","Old Mon",FALSE,100.5,14.83,"Eurasia",NA,"extinct","Austroasiatic",NA
-"oldm1243","unknow","Old Malay",FALSE,NA,NA,"Papunesia",NA,NA,"Austronesian",NA
+"oldm1243",NA,"Old Malay",FALSE,NA,NA,"Papunesia",NA,NA,"Austronesian",NA
 "oldm1244","omr","Old Marathi",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European",NA
 "oldn1244","non","Old Norse",FALSE,10.38,63.42,"Eurasia",NA,"extinct","Indo-European",NA
 "oldn1245","onw","Old Nubian",FALSE,31.748657,18.760713,"Africa",NA,"extinct","Nubian",NA
@@ -2214,7 +2214,7 @@
 "oldr1238","orv","Old Russian",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European",NA
 "olds1250","osx","Old Saxon",FALSE,9.72,52.37,"Eurasia",NA,"extinct","Indo-European",NA
 "oldt1248","oty","Old Tamil",FALSE,78,11,"Eurasia",NA,"extinct","Dravidian",NA
-"oldt1249","unknow","Old Telugu",FALSE,NA,NA,"Eurasia",NA,"extinct","Dravidian",NA
+"oldt1249",NA,"Old Telugu",FALSE,NA,NA,"Eurasia",NA,"extinct","Dravidian",NA
 "oldu1238","oui","Old Turkic",FALSE,NA,NA,"Eurasia",NA,"extinct","Turkic",NA
 "oldw1239","owl","Old Welsh",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European",NA
 "olek1239","ole","Olekha",TRUE,90.5546,27.2079,"Eurasia","Asia","nearly extinct","Sino-Tibetan","hyslop_worlds_2016"
@@ -2264,7 +2264,7 @@
 "pahl1241","pal","Pahlavi",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European",NA
 "pahn1237","pha","Pa-Hng",TRUE,105.165,22.8049,"Eurasia","Asia","threatened","Hmong-Mien",NA
 "paip1241","ppi","Paipai",FALSE,-115.871,31.6063,"North America","Americas","moribund","Cochimi-Yuman",NA
-"pais1238","unknow","Paisaci Prakrit",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European",NA
+"pais1238",NA,"Paisaci Prakrit",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European",NA
 "pait1244","pck","Paite Chin",TRUE,93.6136,24.0381,"Eurasia","Asia","threatened","Sino-Tibetan",NA
 "paiw1248","pwn","Paiwan",TRUE,120.806,22.3271,"Papunesia","Asia","threatened","Austronesian",NA
 "pala1330","pfl","Pfaelzisch",FALSE,6.846,49.701,"Eurasia","Europe","threatened","Indo-European",NA
@@ -2308,7 +2308,7 @@
 "pech1241","pay","Pech",FALSE,-85.558,15.8033,"North America","Americas","shifting","Chibchan",NA
 "pedi1238","nso","Pedi",FALSE,29.4718,-24.7993,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "pela1242","bxd","Pela",TRUE,97.9183,24.2142,"Eurasia","Asia","threatened","Sino-Tibetan",NA
-"pena1270","unknow","Penange",FALSE,-4.03,14.38,"Africa",NA,"not endangered","Dogon",NA
+"pena1270",NA,"Penange",FALSE,-4.03,14.38,"Africa",NA,"not endangered","Dogon",NA
 "pend1242","ums","Pendau",TRUE,119.862,-0.11396,"Papunesia","Asia","shifting","Austronesian","quick_grammar_2007"
 "peng1244","peg","Pengo",FALSE,83.6552,19.3435,"Eurasia","Asia","nearly extinct","Dravidian",NA
 "penn1240","pdc","Pennsylvania German",FALSE,-76.3211,40.030507,"North America","Americas","threatened","Indo-European",NA
@@ -2327,7 +2327,7 @@
 "phon1246","pnx","Phong-Kniang",FALSE,104.088,19.9622,"Eurasia","Asia","shifting","Austroasiatic",NA
 "phry1239","xpg","Phrygian",FALSE,31.28,39.613,"Eurasia",NA,"extinct","Indo-European",NA
 "piar1243","pid","Piaroa",TRUE,-67.7574,4.41805,"South America","Americas","threatened","Jodi-Saliban",NA
-"picu1248","unknow","Picuris Northern Tiwa",FALSE,-105.267144,37.083011,"North America",NA,NA,"Kiowa-Tanoan",NA
+"picu1248",NA,"Picuris Northern Tiwa",FALSE,-105.267144,37.083011,"North America",NA,NA,"Kiowa-Tanoan",NA
 "piem1238","pms","Piemontese",FALSE,8.32366,45.4633,"Eurasia","Europe","threatened","Indo-European",NA
 "piji1239","pis","Pijin",FALSE,160.137,-9.567,"Papunesia","Pacific","not endangered","Indo-European",NA
 "pila1245","plg","Pilagá",FALSE,-60.1537,-25.0058,"South America","Americas","shifting","Guaicuruan",NA
@@ -2456,11 +2456,11 @@
 "saba1263","msi","Brunei-Sabah Malay",FALSE,117.024,4.64808,"Papunesia","Asia","not endangered","Austronesian",NA
 "saba1268","sae","Sabanê",FALSE,-60.335,-12.9857,"South America","Americas","nearly extinct","Nambiquaran",NA
 "saba1279","xsa","Sabaic",FALSE,45.35,15.42,"Eurasia",NA,"extinct","Afro-Asiatic",NA
-"sabe1248","unknow","Old Sabellic",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European",NA
+"sabe1248",NA,"Old Sabellic",FALSE,NA,NA,"Eurasia",NA,"extinct","Indo-European",NA
 "sabu1255","hvn","Hawu",TRUE,121.847,-10.5522,"Papunesia","Asia","not endangered","Austronesian",NA
 "saca1238","quv","Sacapulteco",FALSE,-91.109,15.274,"North America","Americas","shifting","Mayan",NA
 "sadr1248","sck","Sadri",TRUE,84.8114,23.6585,"Eurasia","Asia","not endangered","Indo-European",NA
-"sadu1234","unknow","Sadu",TRUE,102,24.3,"Eurasia",NA,"shifting","Sino-Tibetan","bai_sadu_2012"
+"sadu1234",NA,"Sadu",TRUE,102,24.3,"Eurasia",NA,"shifting","Sino-Tibetan","bai_sadu_2012"
 "saek1240","skb","Saek",TRUE,104.787,17.4558,"Eurasia","Asia","shifting","Tai-Kadai","gedney_william_1993"
 "safa1243","saf","Safaliba",FALSE,-2.58467,8.93768,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "safe1240","apz","Safeyoka",FALSE,146.09,-7.05417,"Papunesia","Pacific","not endangered","Angan",NA
@@ -2533,7 +2533,7 @@
 "sawi1256","swt","Sawila",FALSE,125.078,-8.29105,"Papunesia","Asia","shifting","Timor-Alor-Pantar",NA
 "saya1246","say","Saya",FALSE,9.71748,9.69441,"Africa","Africa","threatened","Afro-Asiatic",NA
 "sayu1241","pos","Sayula Popoluca",FALSE,-94.9531,17.8606,"North America","Americas","shifting","Mixe-Zoque",NA
-"scan1238","unknow","Scanian",FALSE,14,56.5,"Eurasia",NA,"threatened","Indo-European",NA
+"scan1238",NA,"Scanian",FALSE,14,56.5,"Eurasia",NA,"threatened","Indo-European",NA
 "scot1243","sco","Scots",FALSE,-3.710133,55.886945,"Eurasia","Europe","threatened","Indo-European",NA
 "scot1245","gla","Scottish Gaelic",TRUE,-5.24366,56.7574,"Eurasia","Europe","shifting","Indo-European",NA
 "seba1251","sgw","Sebat Bet Gurage",FALSE,37.9891,8.11879,"Africa","Africa","not endangered","Afro-Asiatic",NA
@@ -2625,8 +2625,8 @@
 "sira1267","fos","Siraya",FALSE,120.315,22.9777,"Papunesia","Asia","extinct","Austronesian",NA
 "siri1273","srq","Sirionó",FALSE,-63.9688,-15.5298,"South America","Americas","nearly extinct","Tupian",NA
 "siro1249","ssd","Siroi",FALSE,145.994,-5.52893,"Papunesia","Pacific","not endangered","Nuclear Trans New Guinea",NA
-"sisi1250","unknow","Sisiqa",FALSE,156.83,-7,"Papunesia",NA,"threatened","Austronesian",NA
-"situ1238","unknow","Situ",TRUE,102.660664,31.590536,"Eurasia",NA,NA,"Sino-Tibetan","prins_grammar_2017"
+"sisi1250",NA,"Sisiqa",FALSE,156.83,-7,"Papunesia",NA,"threatened","Austronesian",NA
+"situ1238",NA,"Situ",TRUE,102.660664,31.590536,"Eurasia",NA,NA,"Sino-Tibetan","prins_grammar_2017"
 "sius1254","sis","Siuslaw",FALSE,-124.379,42.5111,"North America","Americas","extinct",NA,NA
 "siwa1245","siw","Siwai",TRUE,155.452,-6.6429,"Papunesia","Pacific","not endangered","South Bougainville","onishi_grammar_1994"
 "siwi1239","siz","Siwi",FALSE,25.519627,29.200415,"Africa","Africa","threatened","Afro-Asiatic",NA
@@ -2702,8 +2702,8 @@
 "sout2996","ayc","Southern Aymara",FALSE,-70.3442,-17.1417,"South America","Americas","not endangered","Aymaran",NA
 "sout2999","pmz","Southern Pame",FALSE,-99.334,20.966,"North America","Americas","extinct","Otomanguean",NA
 "sout3123","ajp","South Levantine Arabic",FALSE,38.0837,31.5601,"Eurasia","Asia","not endangered","Afro-Asiatic",NA
-"sout3236","unknow","Southern Gumuz",FALSE,35.51,9.98,NA,NA,"not endangered","Gumuz",NA
-"sout3261","unknow","Southwestern Dargwa",FALSE,47.565486,41.977226,NA,NA,NA,"Nakh-Daghestanian",NA
+"sout3236",NA,"Southern Gumuz",FALSE,35.51,9.98,NA,NA,"not endangered","Gumuz",NA
+"sout3261",NA,"Southwestern Dargwa",FALSE,47.565486,41.977226,NA,NA,NA,"Nakh-Daghestanian",NA
 "spit1240","spt","Spiti Bhoti",FALSE,77.833,32.526,"Eurasia","Asia","shifting","Sino-Tibetan",NA
 "spok1245","spo","Spokane",FALSE,-118.062,47.9087,"North America","Americas","moribund","Salishan",NA
 "squa1248","squ","Squamish",TRUE,-123.014,49.3231,"North America","Americas","nearly extinct","Salishan",NA
@@ -2739,7 +2739,7 @@
 "sund1252","sun","Sundanese",TRUE,107.106,-6.89708,"Papunesia","Asia","not endangered","Austronesian",NA
 "sunw1242","suz","Sunwar",TRUE,86.2476,27.5201,"Eurasia","Asia","shifting","Sino-Tibetan","borchers_grammar_2007"
 "supy1237","spp","Supyire Senoufo",FALSE,-5.87709,11.632,"Africa","Africa","not endangered","Atlantic-Congo",NA
-"surg1248","unknow","Surgut Khanty",FALSE,73.35,61.25,"Eurasia",NA,"nearly extinct","Uralic",NA
+"surg1248",NA,"Surgut Khanty",FALSE,73.35,61.25,"Eurasia",NA,"nearly extinct","Uralic",NA
 "suri1267","suq","Tirma-Chai",FALSE,35.0823,6.03205,"Africa","Africa","threatened","Surmic",NA
 "surs1246","sgz","Sursurunga",FALSE,152.768,-3.99078,"Papunesia","Pacific","not endangered","Austronesian",NA
 "susu1250","sus","Susu",FALSE,-13.3628,10.4046,"Africa","Africa","not endangered","Mande",NA
@@ -2750,7 +2750,7 @@
 "swat1243","ssw","Swati",FALSE,31.5,-26,"Africa","Africa","threatened","Atlantic-Congo",NA
 "swed1254","swe","Swedish",FALSE,17.389526,59.800634,"Eurasia","Europe","not endangered","Indo-European",NA
 "swis1247","gsw","Swiss German",FALSE,8.46419,47.0516,"Eurasia","Europe","threatened","Indo-European",NA
-"syan1242","unknow","Syan",FALSE,34.337012,1.280475,"Africa",NA,NA,"Atlantic-Congo",NA
+"syan1242",NA,"Syan",FALSE,34.337012,1.280475,"Africa",NA,NA,"Atlantic-Congo",NA
 "sydn1236","xdk","Sydney",FALSE,150.3490464,-33.52925837,"Australia",NA,"extinct","Pama-Nyungan",NA
 "sylh1242","syl","Sylheti",TRUE,92.25347,24.83724,"Eurasia","Asia","not endangered","Indo-European","mishra_aspects_2013"
 "taba1263","tby","Tabaru",FALSE,127.633,1.46563,"Papunesia","Asia","not endangered","North Halmahera",NA
@@ -2793,8 +2793,8 @@
 "tang1334","txg","Tangut",TRUE,102.246464,38.894904,"Eurasia",NA,"extinct","Sino-Tibetan","gong_tangut_2016"
 "tang1336","nmf","East-Central Tangkhul Naga",FALSE,94.3567,25.0489,"Eurasia","Asia","shifting","Sino-Tibetan",NA
 "tang1347","tgp","Movono",FALSE,166.958,-15.5643,"Papunesia","Pacific","shifting","Austronesian",NA
-"tang1373","unknow","Tangwang",TRUE,103.54273,35.803799,"Eurasia",NA,"shifting","Sino-Tibetan","xu_tangwang_2017"
-"tang1377","unknow","Tangam",TRUE,94.98,28.95,"Eurasia",NA,"threatened","Sino-Tibetan","post_tangam_2017"
+"tang1373",NA,"Tangwang",TRUE,103.54273,35.803799,"Eurasia",NA,"shifting","Sino-Tibetan","xu_tangwang_2017"
+"tang1377",NA,"Tangam",TRUE,94.98,28.95,"Eurasia",NA,"threatened","Sino-Tibetan","post_tangam_2017"
 "tani1257","tnc","Tanimuca-Retuarã",TRUE,-70.3853,-0.59023,"South America","Americas","shifting","Tucanoan","strom_retuara_1992"
 "tape1242","afp","Tapei",FALSE,143.337,-4.77763,"Papunesia","Pacific","shifting","Arafundi",NA
 "tapi1253","tpj","Tapieté",FALSE,-62.684,-21.4169,"South America","Americas","shifting","Tupian",NA
@@ -2842,7 +2842,7 @@
 "tepe1278","tep","Tepecano",FALSE,-101.729,19.2343,"North America","Americas","extinct","Uto-Aztecan",NA
 "tepe1279","cnt","Tepetotutla Chinantec",FALSE,-96.5404,17.7115,"North America","Americas","shifting","Otomanguean",NA
 "tepe1280","cux","Tepeuxila Cuicatec",FALSE,-96.788,17.756,"North America","Americas","shifting","Otomanguean",NA
-"tequ1245","unknow","Tequistlateco Chontal",FALSE,-95.59,16.4,NA,NA,"extinct","Tequistlatecan",NA
+"tequ1245",NA,"Tequistlateco Chontal",FALSE,-95.59,16.4,NA,NA,"extinct","Tequistlatecan",NA
 "tera1251","ttr","Tera",FALSE,11.80953,11.0376,"Africa","Africa","not endangered","Afro-Asiatic",NA
 "tere1278","buo","Terei",FALSE,155.745,-6.70051,"Papunesia","Pacific","not endangered","South Bougainville",NA
 "tere1279","ter","Terena-Kinikinao-Chane",FALSE,-56.0329,-20.6614,"South America","Americas","threatened","Arawakan",NA
@@ -2869,14 +2869,14 @@
 "tibe1272","bod","Tibetan",FALSE,90.1872,28.3681,"Eurasia","Asia","not endangered","Sino-Tibetan",NA
 "ticu1245","tca","Ticuna",FALSE,-69.8723,-3.66289,"South America","Americas","threatened","Ticuna-Yuri",NA
 "tido1248","tvo","Tidore",TRUE,127.746,0.02461,"Papunesia","Asia","not endangered","North Halmahera","holton_aspects_2012"
-"tief1244","unknow","Tiefo-Nyafogo-Numudara",FALSE,-4.45,10.85,NA,NA,"nearly extinct","Atlantic-Congo",NA
+"tief1244",NA,"Tiefo-Nyafogo-Numudara",FALSE,-4.45,10.85,NA,NA,"nearly extinct","Atlantic-Congo",NA
 "tien1242","tii","Tiene",FALSE,16.4765,-2.84694,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "tifa1245","tif","Tifal",FALSE,141.293,-5.03899,"Papunesia","Pacific","shifting","Nuclear Trans New Guinea",NA
 "tiga1245","tgc","Tigak",FALSE,150.893,-2.70951,"Papunesia","Pacific","not endangered","Austronesian",NA
 "tigo1236","nza","Tigon Mbembe",FALSE,10.70849,6.983995,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "tigr1270","tig","Tigre",FALSE,38.2233,17.3494,"Africa","Africa","not endangered","Afro-Asiatic",NA
 "tigr1271","tir","Tigrinya",FALSE,38.9266,15.3359,"Africa","Africa","not endangered","Afro-Asiatic",NA
-"tikh1243","unknow","Tikhak",FALSE,NA,NA,NA,NA,NA,"Sino-Tibetan",NA
+"tikh1243",NA,"Tikhak",FALSE,NA,NA,NA,NA,NA,"Sino-Tibetan",NA
 "tiko1237","tkp","Tikopia",FALSE,168.822,-12.2766,"Papunesia","Pacific","not endangered","Austronesian",NA
 "till1254","til","Tillamook",FALSE,-122.769,44.0924,"North America","Americas","extinct","Salishan",NA
 "tilu1238","tij","Tilung",TRUE,86.4694,27.2203,"Eurasia","Asia","nearly extinct","Sino-Tibetan","opgenort_initial_2014"
@@ -2942,9 +2942,9 @@
 "tsam1247","tsb","Tsamai",FALSE,36.9139,5.3097,"Africa","Africa","shifting","Afro-Asiatic",NA
 "tsat1238","huq","Tsat",TRUE,109.336,18.3192,"Eurasia","Asia","shifting","Austronesian",NA
 "tsha1245","tsj","Tshangla",TRUE,91.7741,27.3694,"Eurasia","Asia","threatened","Sino-Tibetan",NA
-"tsho1240","unknow","Tshobdun",TRUE,101.84,32.18,"Eurasia",NA,NA,"Sino-Tibetan","sun_tshobdun_2019"
+"tsho1240",NA,"Tshobdun",TRUE,101.84,32.18,"Eurasia",NA,NA,"Sino-Tibetan","sun_tshobdun_2019"
 "tsis1238","tsw","Salka-Tsishingini",FALSE,5.11073,10.2882,"Africa","Africa","not endangered","Atlantic-Congo",NA
-"tsix1234","unknow","Ts'ixa",FALSE,23.998153,-19.180953,"Africa",NA,"shifting","Khoe-Kwadi",NA
+"tsix1234",NA,"Ts'ixa",FALSE,23.998153,-19.180953,"Africa",NA,"shifting","Khoe-Kwadi",NA
 "tsoa1238","hio","Tsoa",FALSE,26.9638,-19.7974,"Africa","Africa","shifting","Khoe-Kwadi",NA
 "tson1249","tso","Tsonga",FALSE,31.8105,-23.5754,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "tsou1248","tsu","Tsou",TRUE,120.787,23.216,"Papunesia","Asia","shifting","Austronesian",NA
@@ -2960,7 +2960,7 @@
 "tuki1240","bag","Tuki",FALSE,11.5353,4.64348,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "tukp1239","tpq","Tukpa",FALSE,78.1627,31.4925,"Eurasia","Asia","shifting","Sino-Tibetan",NA
 "tula1252","tul","Tula",FALSE,11.52551,9.84629,"Africa","Africa","not endangered","Atlantic-Congo",NA
-"tule1245","unknow","Tule-Kaweah Yokuts",FALSE,-118.768616,36.05354,"North America",NA,"extinct","Yokutsan",NA
+"tule1245",NA,"Tule-Kaweah Yokuts",FALSE,-118.768616,36.05354,"North America",NA,"extinct","Yokutsan",NA
 "tulu1258","tcy","Tulu",FALSE,75.2651,12.8114,"Eurasia","Asia","threatened","Dravidian",NA
 "tumb1250","tum","Tumbuka",FALSE,33.3738,-11.3297,"Africa","Africa","not endangered","Atlantic-Congo",NA
 "tumu1242","sil","Tumulung Sisaala",FALSE,-1.79707,10.63451,"Africa","Africa","nearly extinct","Atlantic-Congo",NA
@@ -2968,9 +2968,9 @@
 "tung1290","lcm","Tungag",FALSE,150.198,-2.52188,"Papunesia","Pacific","not endangered","Austronesian",NA
 "tuni1252","tun","Tunica",FALSE,-92.5403,30.9888,"North America","Americas","extinct",NA,NA
 "tuni1259","aeb","Tunisian Arabic",FALSE,9.56156,33.7966,"Africa","Africa","not endangered","Afro-Asiatic",NA
-"tuni1262","unknow","Tunisian-Zuwara Berber",FALSE,11.299621,32.863859,"Africa",NA,NA,"Afro-Asiatic",NA
+"tuni1262",NA,"Tunisian-Zuwara Berber",FALSE,11.299621,32.863859,"Africa",NA,NA,"Afro-Asiatic",NA
 "tunn1238","tqq","Tunni",FALSE,43.6847,1.06167,"Africa","Africa","threatened","Afro-Asiatic",NA
-"tunu1234","unknow","Tunumiisiut",FALSE,-37.631111,65.613611,"Eurasia",NA,NA,"Eskimo-Aleut",NA
+"tunu1234",NA,"Tunumiisiut",FALSE,-37.631111,65.613611,"Eurasia",NA,NA,"Eskimo-Aleut",NA
 "tupa1250","tpr","Tuparí",FALSE,-62.2544,-11.8884,"South America","Americas","shifting","Tupian",NA
 "turk1303","klj","Turkic Khalaj",FALSE,50.3222,34.4224,"Eurasia","Asia","threatened","Turkic",NA
 "turk1304","tuk","Turkmen",FALSE,59.1757,37.0872,"Eurasia","Asia","shifting","Turkic",NA
@@ -3123,7 +3123,7 @@
 "warl1254","wbp","Warlpiri",FALSE,131.05,-20.1008,"Australia","Pacific","shifting","Pama-Nyungan",NA
 "warl1256","wrb","Warluwara",FALSE,138.738,-22.2909,"Australia","Pacific","nearly extinct","Pama-Nyungan",NA
 "warr1255","wgy","Warrgamay",FALSE,146.179,-18.5468,"Australia","Pacific","nearly extinct","Pama-Nyungan",NA
-"warr1257","unknow","Warrnambool",FALSE,142.4608,-38.345,"Australia",NA,"extinct","Pama-Nyungan",NA
+"warr1257",NA,"Warrnambool",FALSE,142.4608,-38.345,"Australia",NA,"extinct","Pama-Nyungan",NA
 "warr1258","wwr","Warrwa",FALSE,123.971,-17.0965,"Australia","Pacific","nearly extinct","Nyulnyulan",NA
 "waru1264","wrg","Warrongo",FALSE,144.37,-18.2496,"Australia","Pacific","extinct","Pama-Nyungan",NA
 "waru1265","wrm","Warumungu",FALSE,134.375,-20.6479,"Australia","Pacific","moribund","Pama-Nyungan",NA
@@ -3206,7 +3206,7 @@
 "wotu1240","wtw","Wotu",TRUE,120.9,-2.59593,"Papunesia","Asia","shifting","Austronesian","mead_wotu_2013"
 "woun1238","noa","Woun Meu",FALSE,-78,8.5,"South America","Americas","shifting","Chocoan",NA
 "wuch1236","wuu","Wu Chinese",TRUE,119.682,29.8621,"Eurasia","Asia","not endangered","Sino-Tibetan",NA
-"wulg1239","unknow","Wulguru",FALSE,146.3453957,-19.85103121,"Australia",NA,"extinct","Pama-Nyungan",NA
+"wulg1239",NA,"Wulguru",FALSE,146.3453957,-19.85103121,"Australia",NA,"extinct","Pama-Nyungan",NA
 "wuna1249","wub","Wunambal",FALSE,125.72,-14.8347,"Australia","Pacific","moribund","Worrorran",NA
 "wutu1241","wuh","Wutunhua",TRUE,101.957,35.269,"Eurasia","Asia","shifting","Sino-Tibetan",NA
 "wutu1244","wut","Wutung",FALSE,141.104,-2.64636,"Papunesia","Pacific","shifting","Sko",NA
@@ -3222,13 +3222,13 @@
 "xian1251","hsn","Xiang Chinese",TRUE,111.47112,27.66847,"Eurasia","Asia","not endangered","Sino-Tibetan",NA
 "xibe1242","sjo","Xibe",TRUE,81.0034,43.5854,"Eurasia","Asia","threatened","Tungusic",NA
 "xico1235","too","Xicotepec De Juárez Totonac",FALSE,-97.7463,20.6532,"North America","Americas","not endangered","Totonacan",NA
-"xinc1246","unknow","Xinca-Guazacapan",FALSE,-90.416651,14.069981,"North America",NA,"extinct","Xincan",NA
+"xinc1246",NA,"Xinca-Guazacapan",FALSE,-90.416651,14.069981,"North America",NA,"extinct","Xincan",NA
 "xish1235","ywt","Xishanba Lalo",TRUE,100.711,24.8709,"Eurasia","Asia","threatened","Sino-Tibetan","bjorverud_grammar_1998"
 "xokl1240","xok","Xokleng",FALSE,-49.5886,-26.9217,"South America","Americas","shifting","Nuclear-Macro-Je",NA
 "yaak1241","muu","Yaaku",FALSE,37.1008,0.46863,"Africa","Africa","moribund","Afro-Asiatic",NA
 "yabe1254","jae","Yabem",FALSE,147.81,-6.67052,"Papunesia","Pacific","threatened","Austronesian",NA
 "yaey1239","rys","Yaeyama",TRUE,123.801,24.3401,"Eurasia","Asia","shifting","Japonic",NA
-"yaga1256","unknow","Yagara-Jandai",FALSE,152.4602773,-27.87647555,"Australia",NA,"extinct","Pama-Nyungan",NA
+"yaga1256",NA,"Yagara-Jandai",FALSE,152.4602773,-27.87647555,"Australia",NA,"extinct","Pama-Nyungan",NA
 "yaga1260","ygr","Yagaria",FALSE,145.388,-6.32432,"Papunesia","Pacific","not endangered","Nuclear Trans New Guinea",NA
 "yagn1238","yai","Yagnobi",FALSE,69.2422,39.1486,"Eurasia","Asia","threatened","Indo-European",NA
 "yagu1244","yad","Yagua",TRUE,-72.2186,-3.42913,"South America","Americas","shifting","Peba-Yagua",NA
@@ -3302,9 +3302,9 @@
 "yucu1253","ycn","Yucuna",TRUE,-71.0033,-0.76075,"South America","Americas","shifting","Arawakan",NA
 "yuec1235","yue","Yue Chinese",TRUE,113,23,"Eurasia","Asia","not endangered","Sino-Tibetan",NA
 "yuki1243","yuk","Yuki",TRUE,-123.296,39.8389,"North America","Americas","extinct","Yuki-Wappo","balodis_yuki_2011"
-"yulp1239","unknow","Yulparija",FALSE,122.370316,-18.923519,"Australia",NA,"moribund","Pama-Nyungan",NA
+"yulp1239",NA,"Yulparija",FALSE,122.370316,-18.923519,"Australia",NA,"moribund","Pama-Nyungan",NA
 "yulu1243","yul","Yulu",FALSE,23.6166,8.04124,"Africa","Africa","shifting","Central Sudanic",NA
-"yupu1235","unknow","Yuputhimri",FALSE,141.847,-12.004,NA,NA,"extinct","Pama-Nyungan",NA
+"yupu1235",NA,"Yuputhimri",FALSE,141.847,-12.004,NA,NA,"extinct","Pama-Nyungan",NA
 "yura1255","yuz","Yuracaré",FALSE,-65.1224,-16.7479,"South America","Americas","shifting",NA,NA
 "yuro1248","yur","Yurok",TRUE,-123.824,41.3262,"North America","Americas","extinct","Algic",NA
 "zaba1237","kji","Zabana",FALSE,158.753,-7.74311,"Papunesia","Pacific","not endangered","Austronesian",NA
@@ -3320,12 +3320,12 @@
 "zaye1235","kxk","Lahta-Zayein Karen",TRUE,96.908,20.16,"Eurasia","Asia","not endangered","Sino-Tibetan","naw_grammar_2013"
 "zays1235","zay","Zayse-Zergulla",FALSE,37.3409,5.83747,"Africa","Africa","threatened","Ta-Ne-Omotic",NA
 "zayy1238","zwa","Zay",FALSE,38.8258,8.01148,"Africa","Africa","shifting","Afro-Asiatic",NA
-"zbua1234","unknow","Zbu",FALSE,NA,NA,"Eurasia",NA,"shifting","Sino-Tibetan",NA
+"zbua1234",NA,"Zbu",FALSE,NA,NA,"Eurasia",NA,"shifting","Sino-Tibetan",NA
 "zemb1238","dhm","Zemba",FALSE,13.4424,-17.2958,"Africa","Africa","threatened","Atlantic-Congo",NA
 "zeme1240","nzm","Zeme Naga",TRUE,93.6463,25.3499,"Eurasia","Asia","threatened","Sino-Tibetan",NA
 "zenz1235","czn","Zenzontepec Chatino",FALSE,-97.45546,16.52799,"North America","Americas","not endangered","Otomanguean",NA
 "zhab1238","zhb","Zhaba",TRUE,100.983,30.7416,"Eurasia","Asia","shifting","Sino-Tibetan",NA
-"zhan1239","unknow","Zhangzhung",FALSE,81.3125,31.066667,"Eurasia",NA,"extinct","Sino-Tibetan",NA
+"zhan1239",NA,"Zhangzhung",FALSE,81.3125,31.066667,"Eurasia",NA,"extinct","Sino-Tibetan",NA
 "ziaa1250","zia","Zia",FALSE,147.579,-7.95814,"Papunesia","Pacific","not endangered","Nuclear Trans New Guinea",NA
 "zial1235","zil","Zialo",TRUE,-9.51,8.43,"Africa",NA,"threatened","Mande","babaev_zialo_2010"
 "zimb1251","zmb","Zimba",FALSE,26.6083,-4.013,"Africa","Africa","not endangered","Atlantic-Congo",NA

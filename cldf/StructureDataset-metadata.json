@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/wacl",
             "rdf:type": "prov:Entity",
-            "dc:created": "beb5723",
+            "dc:created": "349052a",
             "dc:title": "Repository"
         },
         {
@@ -25,7 +25,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.7"
+            "dc:description": "3.10.8"
         },
         {
             "dc:title": "python-packages",

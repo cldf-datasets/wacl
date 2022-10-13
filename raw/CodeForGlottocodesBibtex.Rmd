@@ -68,3 +68,18 @@ langs %>%
             fileEncoding = "UTF-8",
             row.names = FALSE)
 ```
+
+Remove 'unknown' iso codes
+```{r}
+langs <- read.csv("WACL_v1.csv", sep = ",")
+langs <- langs %>%
+  mutate(iso_code = case_when(iso_code == "NA" ~ "",
+                              TRUE ~ iso_code))
+langs %>%
+  write.csv("WACL_v1.csv",
+            fileEncoding = "UTF-8",
+            row.names = FALSE)
+```
+
+
+
