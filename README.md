@@ -14,11 +14,15 @@ pip install pyglottolog
 cldfbench makecldf cldfbench_wacl.py --glottolog C:\Users\marct\OneDrive\Documents\GitHub\glottolog\
 ```
 
-use for git errors
+use the following if you have git errors
+```
 set GIT_PYTHON_REFRESH=quiet
+```
 
-check the output
+use the following to check the output
+```
 cldfbench readme cldfbench_wacl.py
+```
 
 The following should be used to generate the website projection, but Marc did not test it yet.
 
