@@ -37,4 +37,5 @@ clld create myapp cldf_module=StructureDataset
 cd myapp
 pip install -r requirements.txt
 clld initdb development.ini --cldf C:\Users\marct\OneDrive\Documents\GitHub\wacl\cldf\StructureDataset-metadata.json --glottolog C:\Users\marct\OneDrive\Documents\GitHub\glottolog\
+pserve development.ini
 ```
