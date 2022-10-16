@@ -23,6 +23,9 @@ class Dataset(BaseDataset):
             'LanguageTable',
             'Continent',  # we add more language metadata
         )
+        args.writer.cldf['LanguageTable', 'Latitude'].null = ['', 'NA']
+        args.writer.cldf['LanguageTable', 'Longitude'].null = ['', 'NA']
+        args.writer.cldf['LanguageTable', 'ISO639P3code'].null = ['', 'NA']
         args.writer.cldf.add_component('CodeTable')
 
         args.writer.objects['ParameterTable'] = [
@@ -33,8 +36,8 @@ class Dataset(BaseDataset):
             'Does the language have sortal classifiers, regardless of optional of obligatory?'
         }]
         args.writer.objects['CodeTable'] = [
-            {'ID': 'CLF-1', 'Parameter_ID': 'sortalclassifier', 'Name': 'TRUE'},
-            {'ID': 'CLF-0', 'Parameter_ID': 'sortalclassifier', 'Name': 'FALSE'},
+            {'ID': 'CLF-1', 'Parameter_ID': 'CLF', 'Name': 'TRUE'},
+            {'ID': 'CLF-0', 'Parameter_ID': 'CLF', 'Name': 'FALSE'},
         ]
 
         l2s = collections.defaultdict(list)
