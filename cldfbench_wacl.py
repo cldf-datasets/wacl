@@ -1,4 +1,5 @@
 import pathlib
+import subprocess
 import collections
 
 from pycldf import Sources
@@ -16,6 +17,21 @@ class Dataset(BaseDataset):
 
     def cmd_download(self, args):
         pass
+
+    def cmd_readme(self, args):
+        subprocess.check_call([
+            'cldfbench',
+            'cldfviz.map',
+            str(self.cldf_specs().metadata_path),
+            '--parameters', 'CLF',
+            '--output', str(self.dir / 'map.jpg'),
+            '--width', '20',
+            '--height', '10',
+            '--format', 'jpg',
+            '--pacific-centered'])
+        desc = ['\n![Distribution of classifier languages](map.jpg)\n']
+        pre, head, post = super().cmd_readme(args).partition('## CLDF ')
+        return pre + '\n'.join(desc) + head + post
 
     def cmd_makecldf(self, args):
         args.writer.cldf.add_component('ParameterTable')
