@@ -39,3 +39,9 @@ pip install -r requirements.txt
 clld initdb development.ini --cldf C:\Users\marct\OneDrive\Documents\GitHub\wacl\cldf\StructureDataset-metadata.json --glottolog C:\Users\marct\OneDrive\Documents\GitHub\glottolog\
 pserve development.ini
 ```
+
+Creating the map for the README:
+```shell
+cldfbench cldfviz.map cldf/StructureDataset-metadata.json --parameters CLF --output map.jpg --width 20 --height 10 --format jpg --pacific-centered
+```
+
