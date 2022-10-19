@@ -39,6 +39,7 @@ class Dataset(BaseDataset):
             {'ID': 'CLF-1', 'Parameter_ID': 'CLF', 'Name': 'TRUE'},
             {'ID': 'CLF-0', 'Parameter_ID': 'CLF', 'Name': 'FALSE'},
         ]
+        codes = {r['Name']: r['ID'] for r in args.writer.objects['CodeTable']}
 
         l2s = collections.defaultdict(list)
         sources = []
@@ -63,12 +64,11 @@ class Dataset(BaseDataset):
                 'Continent': row['continent']
             })
             for param in ['CLF']:
-                pid = param.replace('_', '')
                 args.writer.objects['ValueTable'].append({
-                    "ID": '{}-{}'.format(lidx, pid),
+                    "ID": '{}-CLF'.format(lidx),
                     "Value": row[param],
                     "Language_ID": lidx,
-                    "Parameter_ID": pid,
-                    "Code_ID": '{}-{}'.format(pid, '1' if row[param] == 'yes' else '0'),
+                    "Parameter_ID": 'CLF',
+                    "Code_ID": codes[row[param]],
                     "Source": l2s.get(row['glottocode'], [])
                 })

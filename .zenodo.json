@@ -1,0 +1,27 @@
+{
+    "creators": [
+        {
+            "name": "Marc Allassonni\u00e8re-Tang"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Marc Allassonni\u00e8re-Tang",
+            "type": "Researcher"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "DataCurator"
+        }
+    ],
+    "title": "World Atlas of Classifier Languages",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

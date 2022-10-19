@@ -6,13 +6,16 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:identifier": "https://wacl.clld.org",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
+    "dc:title": "World Atlas of Classifier Languages",
     "dcat:accessURL": "https://github.com/cldf-datasets/wacl",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/wacl",
             "rdf:type": "prov:Entity",
-            "dc:created": "9a33e94",
+            "dc:created": "dbcadbc",
             "dc:title": "Repository"
         },
         {
