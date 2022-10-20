@@ -1,5 +1,7 @@
 # World Atlas of Classifier Languages
 
+[![CLDF validation](https://github.com/cldf-datasets/wacl/workflows/CLDF-validation/badge.svg)](https://github.com/cldf-datasets/wacl/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite

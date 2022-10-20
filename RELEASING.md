@@ -1,47 +1,25 @@
-# wacl
-World Atlas of Classifier Languages
+# Releasing the World Atlas of Classifier Languages dataset
 
+- Make sure dependencies are met:
+  ```shell
+  pip install -e .[test]
+  ```
 
+- Recreate the CLDF data:
+  ```shell
+  cldfbench makecldf --with-zenodo --with-cldfreadme --glottolog-version v4.6 cldfbench_wacl.py
+  ```
 
-Code used by Marc so far to generate the cldf dataset. Marc is currently running it in on a backup computer with Windows, minor changes have to be made for Linux. The paths also need to be updated later on.
+- Validate the data:
+  ```shell
+  pytest
+  ```
 
-```
-python -m virtualenv .venv2
-.venv2\Scripts\activate
-pip install cldfbench
-cd OneDrive\Documents\GitHub\wacl
-pip install pyglottolog
-cldfbench makecldf cldfbench_wacl.py --glottolog C:\Users\marct\OneDrive\Documents\GitHub\glottolog\
-```
+- Recreate README.md
+  ```shell
+  cldfbench readme cldfbench_wacl.py
+  ```
 
-use the following if you have git errors
-```
-set GIT_PYTHON_REFRESH=quiet
-```
-
-use the following to check the output
-```
-cldfbench readme cldfbench_wacl.py
-```
-
-The following should be used to generate the website projection, but Marc did not test it yet.
-
-
-```
-python -m virtualenv .venv2
-.venv2\Scripts\activate
-pip install "clld>=7.1.1"
-pip install cookiecutter
-cd OneDrive\Documents\GitHub\wacl
-clld create myapp cldf_module=StructureDataset
-cd myapp
-pip install -r requirements.txt
-clld initdb development.ini --cldf C:\Users\marct\OneDrive\Documents\GitHub\wacl\cldf\StructureDataset-metadata.json --glottolog C:\Users\marct\OneDrive\Documents\GitHub\glottolog\
-pserve development.ini
-```
-
-Creating the map for the README:
-```shell
-cldfbench cldfviz.map cldf/StructureDataset-metadata.json --parameters CLF --output map.jpg --width 20 --height 10 --format jpg --pacific-centered
-```
-
+- Commit and push changes to GitHub.
+- Create a release on GitHub.
+- Make sure the release is picked up by Zenodo and add the Zenodo DOI to the release description on GitHub.

@@ -5,6 +5,7 @@
             "@language": "en"
         }
     ],
+    "dc:bibliographicCitation": "Her, One-Soon, Harald Hammarstr\u00f6m and Marc Allassonni\u00e8re-Tang. 2022. Defining numeral classifiers and identifying classifier languages of the world. Linguistics Vanguard. (Available online at https://wacl.clld.org)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://wacl.clld.org",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
@@ -15,7 +16,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/wacl",
             "rdf:type": "prov:Entity",
-            "dc:created": "dbcadbc",
+            "dc:created": "b0dff49",
             "dc:title": "Repository"
         },
         {
