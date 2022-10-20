@@ -61,6 +61,9 @@ class Dataset(BaseDataset):
         sources = []
         for src in sorted(
                 Sources.from_file(self.raw_dir / 'sources.bib').items(), key=lambda i: i.id):
+            for k in ['title', 'author', 'editor']:
+                if k in src:
+                    src[k] = src[k].replace('{', '').replace('}', '')
             if src.get('glottocode'):
                 for code in split_text(src['glottocode'], ';', strip=True):
                     l2s[code].append(src.id)
