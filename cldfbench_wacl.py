@@ -29,11 +29,30 @@ class Dataset(BaseDataset):
             '--height', '10',
             '--format', 'jpg',
             '--pacific-centered'])
-        desc = ['\n![Distribution of classifier languages](map.jpg)\n']
+        desc = [
+            '\n{}'.format(self.cldf_reader().properties['dc:description']),
+            '\n![Distribution of classifier languages](map.jpg)\n'
+        ]
         pre, head, post = super().cmd_readme(args).partition('## CLDF ')
         return pre + '\n'.join(desc) + head + post
 
     def cmd_makecldf(self, args):
+        values = list(self.raw_dir.read_csv('WACL_v1.csv', delimiter=',', dicts=True))
+        args.writer.cldf.properties['dc:description'] = \
+            "The database, named World Atlas of Classifier Languages (WACL), has been " \
+            "systematically constructed over the last ten years via a manual survey of relevant " \
+            "literature and also an automatic scan of digitized grammars followed by manual " \
+            "checking. WACL presents a precise definition of numeral classifiers, steps to " \
+            "identify a numeral classifier language, and a database of {} languages, of which " \
+            "{} languages have been identified as having a numeral classifier system. " \
+            "The open-access release of WACL is thus a significant contribution to linguistic " \
+            "research in providing (i) a precise definition and examples of how to identify " \
+            "numeral classifiers in language data and (ii) the largest dataset of numeral " \
+            "classifier languages in the world. As such it offers researchers a rich and stable " \
+            "data source for conducting typological, quantitative, and phylogenetic analyses on " \
+            "numeral classifiers. The database will also be expanded with additional features " \
+            "relating to numeral classifiers in the future in order to allow more fine-grained " \
+            "analyses.".format(len(values), sum(1 for r in values if r['CLF'] == 'TRUE'))
         args.writer.cldf.add_component('ParameterTable')
         args.writer.cldf.add_component(
             'LanguageTable',

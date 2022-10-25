@@ -5,7 +5,7 @@ Cartopy==0.19.0.post1
 certifi==2022.9.24
 chardet==5.0.0
 cldfbench==1.12.0
--e git+https://github.com/cldf-datasets/wacl@2f43f5248a92893128997d9171a59fb0010e0315#egg=cldfbench_wacl
+-e git+https://github.com/cldf-datasets/wacl@9f48703128b5c0bf0db07f879e35cc7baa54316d#egg=cldfbench_wacl
 cldfcatalog==1.5.1
 cldfviz==0.9.0
 cldfzenodo==0.3.0
