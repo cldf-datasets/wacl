@@ -66,7 +66,7 @@ class Dataset(BaseDataset):
         args.writer.objects['ParameterTable'] = [
         {
             'ID': 'CLF',
-            'Name': 'CLF',
+            'Name': 'Presence/absence of numeral classifiers',
             'Description':
             'Does the language have sortal classifiers, regardless of optional of obligatory?'
         }]
