@@ -30,5 +30,5 @@
     "license": {
         "id": "CC-BY-4.0"
     },
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Her, One-Soon, Harald Hammarstr\u00f6m and Marc Allassonni\u00e8re-Tang. 2022. Defining numeral classifiers and identifying classifier languages of the world. Linguistics Vanguard. (Available online at https://wacl.clld.org)</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Her, One-Soon, Harald Hammarstr\u00f6m and Marc Allassonni\u00e8re-Tang. 2022. Defining numeral classifiers and identifying classifier languages of the world. Linguistics Vanguard. https://doi.org/10.1515/lingvan-2022-0006</p>\n</blockquote>"
 }
