@@ -1,0 +1,22 @@
+
+## Run the following code to deploy the app locally
+
+python -m virtualenv myenv
+source myenv/bin/activate
+pip install "clld>=7.1.1"
+pip install cookiecutter
+clld create myapp cldf_module=StructureDataset
+cd myapp
+pip install -r requirements.txt
+clld initdb development.ini --cldf ~/Desktop/GitHub/wacl/cldf/StructureDataset-metadata.json --glottolog ~/Desktop/glottolog-v4.6/glottolog-glottolog-d1e373e/
+pip install -e .
+pserve development.ini 
+
+
+## To change in the cldf dataset
+
+## To change in the app
+
+For the homepage
+ wacl/wacl/templates/dataset/detail_html.mako 
+
