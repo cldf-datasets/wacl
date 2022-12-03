@@ -18,5 +18,4 @@ pserve development.ini
 ## To change in the app
 
 For the homepage
- wacl/wacl/templates/dataset/detail_html.mako 
-
+ wacl/wacl/templates/dataset/detail_html.mako, e.g., to add links you can use <a href="https://en.wikipedia.org/wiki/JSON">JSON format</a>
