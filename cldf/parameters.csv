@@ -1,2 +1,2 @@
-ID,Name,Description
-CLF,Presence/absence of numeral classifiers,"Does the language have sortal classifiers, regardless of optional of obligatory?"
+ID,Name,Description,ColumnSpec
+CLF,Presence/absence of numeral classifiers,"Does the language have sortal classifiers, regardless of optional of obligatory?",

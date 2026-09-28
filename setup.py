@@ -16,6 +16,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'cldfbench>=1.2.2',
+        'pyglottolog',
     ],
     extras_require={
         'test': [

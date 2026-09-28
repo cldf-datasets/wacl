@@ -2,11 +2,13 @@
 
 - Make sure dependencies are met:
   ```shell
+  git clone https://github.com/cldf-datasets/wacl wacl-cldf
+  cd wacl-cldf
   pip install -e .[test]
   ```
 - Recreate the CLDF data:
   ```shell
-  cldfbench makecldf --with-zenodo --with-cldfreadme --glottolog-version v4.6 cldfbench_wacl.py
+  cldfbench makecldf --with-zenodo --with-cldfreadme --glottolog-version v5.3 cldfbench_wacl.py
   ```
 - Validate the data:
   ```shell
@@ -14,6 +16,7 @@
   ```
 - Recreate README.md
   ```shell
+  pip install cldfviz[cartopy]
   cldfbench readme cldfbench_wacl.py
   ```
 - create the release commit:
